@@ -1,0 +1,2911 @@
+{
+  "head" : {
+    "vars" : [
+      "autor",
+      "nombreAutor",
+      "correo"
+    ]
+  },
+  "results" : {
+    "bindings" : [
+      {
+        "nombreAutor" : {
+          "type" : "literal",
+          "value" : "Chang Kyung Kang"
+        },
+        "correo" : {
+          "type" : "literal",
+          "value" : "hangrae2@snu.ac.kr"
+        },
+        "autor" : {
+          "type" : "uri",
+          "value" : "http://utpl.edu.ec/lod/publishingCOVID/ontology/Author/author-1"
+        }
+      },
+      {
+        "nombreAutor" : {
+          "type" : "literal",
+          "value" : "Xiangning Fu "
+        },
+        "correo" : {
+          "type" : "literal",
+          "value" : "fuxn2006@aliyun.com"
+        },
+        "autor" : {
+          "type" : "uri",
+          "value" : "http://utpl.edu.ec/lod/publishingCOVID/ontology/Author/author-1006"
+        }
+      },
+      {
+        "nombreAutor" : {
+          "type" : "literal",
+          "value" : "Fan Cheng"
+        },
+        "correo" : {
+          "type" : "literal",
+          "value" : "646064793@qq.com"
+        },
+        "autor" : {
+          "type" : "uri",
+          "value" : "http://utpl.edu.ec/lod/publishingCOVID/ontology/Author/author-1032"
+        }
+      },
+      {
+        "nombreAutor" : {
+          "type" : "literal",
+          "value" : "Xiangpan Li"
+        },
+        "correo" : {
+          "type" : "literal",
+          "value" : "rm001227@whu.edu.cn"
+        },
+        "autor" : {
+          "type" : "uri",
+          "value" : "http://utpl.edu.ec/lod/publishingCOVID/ontology/Author/author-1033"
+        }
+      },
+      {
+        "nombreAutor" : {
+          "type" : "literal",
+          "value" : "E. Maseda"
+        },
+        "correo" : {
+          "type" : "literal",
+          "value" : "emilio.maseda@gmail.com"
+        },
+        "autor" : {
+          "type" : "uri",
+          "value" : "http://utpl.edu.ec/lod/publishingCOVID/ontology/Author/author-1046"
+        }
+      },
+      {
+        "nombreAutor" : {
+          "type" : "literal",
+          "value" : "David García-Azorín"
+        },
+        "correo" : {
+          "type" : "literal",
+          "value" : "davilink@hotmail.com"
+        },
+        "autor" : {
+          "type" : "uri",
+          "value" : "http://utpl.edu.ec/lod/publishingCOVID/ontology/Author/author-105"
+        }
+      },
+      {
+        "nombreAutor" : {
+          "type" : "literal",
+          "value" : "Amal Assa’ad "
+        },
+        "correo" : {
+          "type" : "literal",
+          "value" : "amal.assaad@cchmc.org"
+        },
+        "autor" : {
+          "type" : "uri",
+          "value" : "http://utpl.edu.ec/lod/publishingCOVID/ontology/Author/author-1061"
+        }
+      },
+      {
+        "nombreAutor" : {
+          "type" : "literal",
+          "value" : "Khadijah A. Turkistani"
+        },
+        "correo" : {
+          "type" : "literal",
+          "value" : "katurkistani@kau.edu.sa"
+        },
+        "autor" : {
+          "type" : "uri",
+          "value" : "http://utpl.edu.ec/lod/publishingCOVID/ontology/Author/author-1062"
+        }
+      },
+      {
+        "nombreAutor" : {
+          "type" : "literal",
+          "value" : "Shreshth Tuli"
+        },
+        "correo" : {
+          "type" : "literal",
+          "value" : "shreshthtuli@gmail.com"
+        },
+        "autor" : {
+          "type" : "uri",
+          "value" : "http://utpl.edu.ec/lod/publishingCOVID/ontology/Author/author-1063"
+        }
+      },
+      {
+        "nombreAutor" : {
+          "type" : "literal",
+          "value" : "Shikhar Tuli"
+        },
+        "correo" : {
+          "type" : "literal",
+          "value" : "shikhartuli98@gmail.com"
+        },
+        "autor" : {
+          "type" : "uri",
+          "value" : "http://utpl.edu.ec/lod/publishingCOVID/ontology/Author/author-1064"
+        }
+      },
+      {
+        "nombreAutor" : {
+          "type" : "literal",
+          "value" : "Rakesh Tuli"
+        },
+        "correo" : {
+          "type" : "literal",
+          "value" : "rakeshtuli@hotmail.com"
+        },
+        "autor" : {
+          "type" : "uri",
+          "value" : "http://utpl.edu.ec/lod/publishingCOVID/ontology/Author/author-1065"
+        }
+      },
+      {
+        "nombreAutor" : {
+          "type" : "literal",
+          "value" : "Sukhpal Singh Gill"
+        },
+        "correo" : {
+          "type" : "literal",
+          "value" : "s.s.gill@qmul.ac.uk"
+        },
+        "autor" : {
+          "type" : "uri",
+          "value" : "http://utpl.edu.ec/lod/publishingCOVID/ontology/Author/author-1066"
+        }
+      },
+      {
+        "nombreAutor" : {
+          "type" : "literal",
+          "value" : "Rafael Parra-Medina"
+        },
+        "correo" : {
+          "type" : "literal",
+          "value" : "rafa.parram@gmail.com"
+        },
+        "autor" : {
+          "type" : "uri",
+          "value" : "http://utpl.edu.ec/lod/publishingCOVID/ontology/Author/author-1071"
+        }
+      },
+      {
+        "nombreAutor" : {
+          "type" : "literal",
+          "value" : "Ashish Yashwantrao Pawar"
+        },
+        "correo" : {
+          "type" : "literal",
+          "value" : "pawarashish23@gmail.com"
+        },
+        "autor" : {
+          "type" : "uri",
+          "value" : "http://utpl.edu.ec/lod/publishingCOVID/ontology/Author/author-1072"
+        }
+      },
+      {
+        "nombreAutor" : {
+          "type" : "literal",
+          "value" : "Liping Sun"
+        },
+        "correo" : {
+          "type" : "literal",
+          "value" : "unlp@sumhs.edu.cn"
+        },
+        "autor" : {
+          "type" : "uri",
+          "value" : "http://utpl.edu.ec/lod/publishingCOVID/ontology/Author/author-1073"
+        }
+      },
+      {
+        "nombreAutor" : {
+          "type" : "literal",
+          "value" : "Lining Sun"
+        },
+        "correo" : {
+          "type" : "literal",
+          "value" : "lnsun@hit.edu.cn"
+        },
+        "autor" : {
+          "type" : "uri",
+          "value" : "http://utpl.edu.ec/lod/publishingCOVID/ontology/Author/author-1082"
+        }
+      },
+      {
+        "nombreAutor" : {
+          "type" : "literal",
+          "value" : "Yuxin Shi"
+        },
+        "correo" : {
+          "type" : "literal",
+          "value" : "shiyx828288@163.com"
+        },
+        "autor" : {
+          "type" : "uri",
+          "value" : "http://utpl.edu.ec/lod/publishingCOVID/ontology/Author/author-1084"
+        }
+      },
+      {
+        "nombreAutor" : {
+          "type" : "literal",
+          "value" : "Jiazhao Yang"
+        },
+        "correo" : {
+          "type" : "literal",
+          "value" : "yangjiazhao@126.com"
+        },
+        "autor" : {
+          "type" : "uri",
+          "value" : "http://utpl.edu.ec/lod/publishingCOVID/ontology/Author/author-1090"
+        }
+      },
+      {
+        "nombreAutor" : {
+          "type" : "literal",
+          "value" : "Shiyuan Fang"
+        },
+        "correo" : {
+          "type" : "literal",
+          "value" : "fangshiyuan2008@126.com"
+        },
+        "autor" : {
+          "type" : "uri",
+          "value" : "http://utpl.edu.ec/lod/publishingCOVID/ontology/Author/author-1091"
+        }
+      },
+      {
+        "nombreAutor" : {
+          "type" : "literal",
+          "value" : "Anuradha Tomar"
+        },
+        "correo" : {
+          "type" : "literal",
+          "value" : "eranu28@gmail.com"
+        },
+        "autor" : {
+          "type" : "uri",
+          "value" : "http://utpl.edu.ec/lod/publishingCOVID/ontology/Author/author-1092"
+        }
+      },
+      {
+        "nombreAutor" : {
+          "type" : "literal",
+          "value" : "Silvia Bressan"
+        },
+        "correo" : {
+          "type" : "literal",
+          "value" : "silviabress@gmail.com"
+        },
+        "autor" : {
+          "type" : "uri",
+          "value" : "http://utpl.edu.ec/lod/publishingCOVID/ontology/Author/author-1094"
+        }
+      },
+      {
+        "nombreAutor" : {
+          "type" : "literal",
+          "value" : "Awadhesh Kumar Singh"
+        },
+        "correo" : {
+          "type" : "literal",
+          "value" : "draksingh_2001@yahoo.com"
+        },
+        "autor" : {
+          "type" : "uri",
+          "value" : "http://utpl.edu.ec/lod/publishingCOVID/ontology/Author/author-1105"
+        }
+      },
+      {
+        "nombreAutor" : {
+          "type" : "literal",
+          "value" : "Chunhua Pan"
+        },
+        "correo" : {
+          "type" : "literal",
+          "value" : "chungenp@163.com"
+        },
+        "autor" : {
+          "type" : "uri",
+          "value" : "http://utpl.edu.ec/lod/publishingCOVID/ontology/Author/author-1113"
+        }
+      },
+      {
+        "nombreAutor" : {
+          "type" : "literal",
+          "value" : "Shuwen Liu"
+        },
+        "correo" : {
+          "type" : "literal",
+          "value" : "liusw@smu.edu.cn"
+        },
+        "autor" : {
+          "type" : "uri",
+          "value" : "http://utpl.edu.ec/lod/publishingCOVID/ontology/Author/author-1114"
+        }
+      },
+      {
+        "nombreAutor" : {
+          "type" : "literal",
+          "value" : "Chungen Pan"
+        },
+        "correo" : {
+          "type" : "literal",
+          "value" : "chhpan@163.com"
+        },
+        "autor" : {
+          "type" : "uri",
+          "value" : "http://utpl.edu.ec/lod/publishingCOVID/ontology/Author/author-1115"
+        }
+      },
+      {
+        "nombreAutor" : {
+          "type" : "literal",
+          "value" : "Kwok-Yung "
+        },
+        "correo" : {
+          "type" : "literal",
+          "value" : "kyyuen@hku.hk"
+        },
+        "autor" : {
+          "type" : "uri",
+          "value" : "http://utpl.edu.ec/lod/publishingCOVID/ontology/Author/author-1134"
+        }
+      },
+      {
+        "nombreAutor" : {
+          "type" : "literal",
+          "value" : "Eleonora Pantano"
+        },
+        "correo" : {
+          "type" : "literal",
+          "value" : "e.pantano@bristol.ac.uk"
+        },
+        "autor" : {
+          "type" : "uri",
+          "value" : "http://utpl.edu.ec/lod/publishingCOVID/ontology/Author/author-1143"
+        }
+      },
+      {
+        "nombreAutor" : {
+          "type" : "literal",
+          "value" : "Gabriele Pizzi"
+        },
+        "correo" : {
+          "type" : "literal",
+          "value" : "Gabriele.pizzi@unibo.it"
+        },
+        "autor" : {
+          "type" : "uri",
+          "value" : "http://utpl.edu.ec/lod/publishingCOVID/ontology/Author/author-1144"
+        }
+      },
+      {
+        "nombreAutor" : {
+          "type" : "literal",
+          "value" : "Daniele Scarpi"
+        },
+        "correo" : {
+          "type" : "literal",
+          "value" : "Daniele.scarpi@unibo.it"
+        },
+        "autor" : {
+          "type" : "uri",
+          "value" : "http://utpl.edu.ec/lod/publishingCOVID/ontology/Author/author-1145"
+        }
+      },
+      {
+        "nombreAutor" : {
+          "type" : "literal",
+          "value" : "Charles Dennis"
+        },
+        "correo" : {
+          "type" : "literal",
+          "value" : "c.dennis@mdx.ac.uk"
+        },
+        "autor" : {
+          "type" : "uri",
+          "value" : "http://utpl.edu.ec/lod/publishingCOVID/ontology/Author/author-1146"
+        }
+      },
+      {
+        "nombreAutor" : {
+          "type" : "literal",
+          "value" : "Yuping Wang"
+        },
+        "correo" : {
+          "type" : "literal",
+          "value" : "wangyuping@lzu.edu.cn"
+        },
+        "autor" : {
+          "type" : "uri",
+          "value" : "http://utpl.edu.ec/lod/publishingCOVID/ontology/Author/author-1155"
+        }
+      },
+      {
+        "nombreAutor" : {
+          "type" : "literal",
+          "value" : "Yongning Zhou"
+        },
+        "correo" : {
+          "type" : "literal",
+          "value" : "zhouyn@lzu.edu.cn"
+        },
+        "autor" : {
+          "type" : "uri",
+          "value" : "http://utpl.edu.ec/lod/publishingCOVID/ontology/Author/author-1156"
+        }
+      },
+      {
+        "nombreAutor" : {
+          "type" : "literal",
+          "value" : "Luca Quartuccio"
+        },
+        "correo" : {
+          "type" : "literal",
+          "value" : "luca.quartuccio@asufc.sanita.fvg.it"
+        },
+        "autor" : {
+          "type" : "uri",
+          "value" : "http://utpl.edu.ec/lod/publishingCOVID/ontology/Author/author-1157"
+        }
+      },
+      {
+        "nombreAutor" : {
+          "type" : "literal",
+          "value" : "M. Peláez-Luna"
+        },
+        "correo" : {
+          "type" : "literal",
+          "value" : "mariopl@prodigy.net.mx"
+        },
+        "autor" : {
+          "type" : "uri",
+          "value" : "http://utpl.edu.ec/lod/publishingCOVID/ontology/Author/author-1168"
+        }
+      },
+      {
+        "nombreAutor" : {
+          "type" : "literal",
+          "value" : "Dolores Merino-Navarro"
+        },
+        "correo" : {
+          "type" : "literal",
+          "value" : "lola.merino@denf.uhu.es"
+        },
+        "autor" : {
+          "type" : "uri",
+          "value" : "http://utpl.edu.ec/lod/publishingCOVID/ontology/Author/author-1169"
+        }
+      },
+      {
+        "nombreAutor" : {
+          "type" : "literal",
+          "value" : "Thomas Leclerc"
+        },
+        "correo" : {
+          "type" : "literal",
+          "value" : "thomas.leclerc@m4x.org"
+        },
+        "autor" : {
+          "type" : "uri",
+          "value" : "http://utpl.edu.ec/lod/publishingCOVID/ontology/Author/author-1171"
+        }
+      },
+      {
+        "nombreAutor" : {
+          "type" : "literal",
+          "value" : "A. Mattei"
+        },
+        "correo" : {
+          "type" : "literal",
+          "value" : "alexia.mattei@ap-hm.fr"
+        },
+        "autor" : {
+          "type" : "uri",
+          "value" : "http://utpl.edu.ec/lod/publishingCOVID/ontology/Author/author-1185"
+        }
+      },
+      {
+        "nombreAutor" : {
+          "type" : "literal",
+          "value" : "T. Fovet"
+        },
+        "correo" : {
+          "type" : "literal",
+          "value" : "thomas.fovet@chru-lille.fr"
+        },
+        "autor" : {
+          "type" : "uri",
+          "value" : "http://utpl.edu.ec/lod/publishingCOVID/ontology/Author/author-1209"
+        }
+      },
+      {
+        "nombreAutor" : {
+          "type" : "literal",
+          "value" : "Mohammad Sadegh Hassanvand"
+        },
+        "correo" : {
+          "type" : "literal",
+          "value" : "Hassanvand@tums.ac.ir"
+        },
+        "autor" : {
+          "type" : "uri",
+          "value" : "http://utpl.edu.ec/lod/publishingCOVID/ontology/Author/author-123"
+        }
+      },
+      {
+        "nombreAutor" : {
+          "type" : "literal",
+          "value" : "Talat MokhtariAzad"
+        },
+        "correo" : {
+          "type" : "literal",
+          "value" : "mokhtari@tums.ac.ir"
+        },
+        "autor" : {
+          "type" : "uri",
+          "value" : "http://utpl.edu.ec/lod/publishingCOVID/ontology/Author/author-124"
+        }
+      },
+      {
+        "nombreAutor" : {
+          "type" : "literal",
+          "value" : "Anoop Misra"
+        },
+        "correo" : {
+          "type" : "literal",
+          "value" : "anoopmisra@gmail.com"
+        },
+        "autor" : {
+          "type" : "uri",
+          "value" : "http://utpl.edu.ec/lod/publishingCOVID/ontology/Author/author-1249"
+        }
+      },
+      {
+        "nombreAutor" : {
+          "type" : "literal",
+          "value" : "Huixia Yang "
+        },
+        "correo" : {
+          "type" : "literal",
+          "value" : "yanghuixia@bjmu.edu.cn"
+        },
+        "autor" : {
+          "type" : "uri",
+          "value" : "http://utpl.edu.ec/lod/publishingCOVID/ontology/Author/author-1282"
+        }
+      },
+      {
+        "nombreAutor" : {
+          "type" : "literal",
+          "value" : "Pradip Dashraath"
+        },
+        "correo" : {
+          "type" : "literal",
+          "value" : "pradip_dashraath_vijayakumar@nuhs.edu.sg"
+        },
+        "autor" : {
+          "type" : "uri",
+          "value" : "http://utpl.edu.ec/lod/publishingCOVID/ontology/Author/author-1283"
+        }
+      },
+      {
+        "nombreAutor" : {
+          "type" : "literal",
+          "value" : "Jonathan P Rogers"
+        },
+        "correo" : {
+          "type" : "literal",
+          "value" : "jonathan.rogers@ucl.ac.uk"
+        },
+        "autor" : {
+          "type" : "uri",
+          "value" : "http://utpl.edu.ec/lod/publishingCOVID/ontology/Author/author-1296"
+        }
+      },
+      {
+        "nombreAutor" : {
+          "type" : "literal",
+          "value" : "Stephen Y. Liang"
+        },
+        "correo" : {
+          "type" : "literal",
+          "value" : "syliang@wustl.edu"
+        },
+        "autor" : {
+          "type" : "uri",
+          "value" : "http://utpl.edu.ec/lod/publishingCOVID/ontology/Author/author-1308"
+        }
+      },
+      {
+        "nombreAutor" : {
+          "type" : "literal",
+          "value" : "Eduard Vieta"
+        },
+        "correo" : {
+          "type" : "literal",
+          "value" : "evieta@clinic.cat"
+        },
+        "autor" : {
+          "type" : "uri",
+          "value" : "http://utpl.edu.ec/lod/publishingCOVID/ontology/Author/author-1309"
+        }
+      },
+      {
+        "nombreAutor" : {
+          "type" : "literal",
+          "value" : "Edward J. Caruana"
+        },
+        "correo" : {
+          "type" : "literal",
+          "value" : "edwardcaruana@nhs.net"
+        },
+        "autor" : {
+          "type" : "uri",
+          "value" : "http://utpl.edu.ec/lod/publishingCOVID/ontology/Author/author-131"
+        }
+      },
+      {
+        "nombreAutor" : {
+          "type" : "literal",
+          "value" : "iaoning Li"
+        },
+        "correo" : {
+          "type" : "literal",
+          "value" : "xiliusa2000@126.com"
+        },
+        "autor" : {
+          "type" : "uri",
+          "value" : "http://utpl.edu.ec/lod/publishingCOVID/ontology/Author/author-1316"
+        }
+      },
+      {
+        "nombreAutor" : {
+          "type" : "literal",
+          "value" : "Jinsong Xiao"
+        },
+        "correo" : {
+          "type" : "literal",
+          "value" : "jsxiao2000@sina.com"
+        },
+        "autor" : {
+          "type" : "uri",
+          "value" : "http://utpl.edu.ec/lod/publishingCOVID/ontology/Author/author-1317"
+        }
+      },
+      {
+        "nombreAutor" : {
+          "type" : "literal",
+          "value" : "Jianyi Dai"
+        },
+        "correo" : {
+          "type" : "literal",
+          "value" : "daijianyi2008@163.com"
+        },
+        "autor" : {
+          "type" : "uri",
+          "value" : "http://utpl.edu.ec/lod/publishingCOVID/ontology/Author/author-1321"
+        }
+      },
+      {
+        "nombreAutor" : {
+          "type" : "literal",
+          "value" : "Ignacio J. Amat-Santos"
+        },
+        "correo" : {
+          "type" : "literal",
+          "value" : "ijamat@gmail.com"
+        },
+        "autor" : {
+          "type" : "uri",
+          "value" : "http://utpl.edu.ec/lod/publishingCOVID/ontology/Author/author-1327"
+        }
+      },
+      {
+        "nombreAutor" : {
+          "type" : "literal",
+          "value" : "Clara Bonanad"
+        },
+        "correo" : {
+          "type" : "literal",
+          "value" : "clarabonanad@gmail.com"
+        },
+        "autor" : {
+          "type" : "uri",
+          "value" : "http://utpl.edu.ec/lod/publishingCOVID/ontology/Author/author-1337"
+        }
+      },
+      {
+        "nombreAutor" : {
+          "type" : "literal",
+          "value" : "Erica J. Brenner"
+        },
+        "correo" : {
+          "type" : "literal",
+          "value" : "Erica.Brenner@unchealth.unc.edu"
+        },
+        "autor" : {
+          "type" : "uri",
+          "value" : "http://utpl.edu.ec/lod/publishingCOVID/ontology/Author/author-1347"
+        }
+      },
+      {
+        "nombreAutor" : {
+          "type" : "literal",
+          "value" : "Prashant Kumar"
+        },
+        "correo" : {
+          "type" : "literal",
+          "value" : "P.Kumar@surrey.ac.uk"
+        },
+        "autor" : {
+          "type" : "uri",
+          "value" : "http://utpl.edu.ec/lod/publishingCOVID/ontology/Author/author-1361"
+        }
+      },
+      {
+        "nombreAutor" : {
+          "type" : "literal",
+          "value" : "Gabriele Saccon"
+        },
+        "correo" : {
+          "type" : "literal",
+          "value" : "gabriele.saccone.1990@gmail.com"
+        },
+        "autor" : {
+          "type" : "uri",
+          "value" : "http://utpl.edu.ec/lod/publishingCOVID/ontology/Author/author-1368"
+        }
+      },
+      {
+        "nombreAutor" : {
+          "type" : "literal",
+          "value" : "George J. Murphy"
+        },
+        "correo" : {
+          "type" : "literal",
+          "value" : "gjmurphy@bu.edu"
+        },
+        "autor" : {
+          "type" : "uri",
+          "value" : "http://utpl.edu.ec/lod/publishingCOVID/ontology/Author/author-1379"
+        }
+      },
+      {
+        "nombreAutor" : {
+          "type" : "literal",
+          "value" : "Lora Kahn"
+        },
+        "correo" : {
+          "type" : "literal",
+          "value" : "tylerscullen@gmail.com"
+        },
+        "autor" : {
+          "type" : "uri",
+          "value" : "http://utpl.edu.ec/lod/publishingCOVID/ontology/Author/author-1384"
+        }
+      },
+      {
+        "nombreAutor" : {
+          "type" : "literal",
+          "value" : "C. Özdemir"
+        },
+        "correo" : {
+          "type" : "literal",
+          "value" : "catoz@gumed.edu.pl"
+        },
+        "autor" : {
+          "type" : "uri",
+          "value" : "http://utpl.edu.ec/lod/publishingCOVID/ontology/Author/author-1386"
+        }
+      },
+      {
+        "nombreAutor" : {
+          "type" : "literal",
+          "value" : "Giovanni Marasco"
+        },
+        "correo" : {
+          "type" : "literal",
+          "value" : "giovannimarasco89@gmail.com"
+        },
+        "autor" : {
+          "type" : "uri",
+          "value" : "http://utpl.edu.ec/lod/publishingCOVID/ontology/Author/author-140"
+        }
+      },
+      {
+        "nombreAutor" : {
+          "type" : "literal",
+          "value" : "Wen-Zhao Zhong"
+        },
+        "correo" : {
+          "type" : "literal",
+          "value" : "syzhongwenzhao@scut.edu.cn"
+        },
+        "autor" : {
+          "type" : "uri",
+          "value" : "http://utpl.edu.ec/lod/publishingCOVID/ontology/Author/author-1403"
+        }
+      },
+      {
+        "nombreAutor" : {
+          "type" : "literal",
+          "value" : "P. Naarding "
+        },
+        "correo" : {
+          "type" : "literal",
+          "value" : "p.naarding@ggnet.nl"
+        },
+        "autor" : {
+          "type" : "uri",
+          "value" : "http://utpl.edu.ec/lod/publishingCOVID/ontology/Author/author-1404"
+        }
+      },
+      {
+        "nombreAutor" : {
+          "type" : "literal",
+          "value" : "Laurie R. Archbald-Pannone"
+        },
+        "correo" : {
+          "type" : "literal",
+          "value" : "LA2E@Vrginia.edu"
+        },
+        "autor" : {
+          "type" : "uri",
+          "value" : "http://utpl.edu.ec/lod/publishingCOVID/ontology/Author/author-1415"
+        }
+      },
+      {
+        "nombreAutor" : {
+          "type" : "literal",
+          "value" : "Juan V. Llau"
+        },
+        "correo" : {
+          "type" : "literal",
+          "value" : "juanvllau@gmail.com"
+        },
+        "autor" : {
+          "type" : "uri",
+          "value" : "http://utpl.edu.ec/lod/publishingCOVID/ontology/Author/author-1421"
+        }
+      },
+      {
+        "nombreAutor" : {
+          "type" : "literal",
+          "value" : "G. Tusman"
+        },
+        "correo" : {
+          "type" : "literal",
+          "value" : "gtusman@hotmail.com"
+        },
+        "autor" : {
+          "type" : "uri",
+          "value" : "http://utpl.edu.ec/lod/publishingCOVID/ontology/Author/author-1432"
+        }
+      },
+      {
+        "nombreAutor" : {
+          "type" : "literal",
+          "value" : "Bimal Kumar Mishra"
+        },
+        "correo" : {
+          "type" : "literal",
+          "value" : "drbimalmishra@gmail.com"
+        },
+        "autor" : {
+          "type" : "uri",
+          "value" : "http://utpl.edu.ec/lod/publishingCOVID/ontology/Author/author-1435"
+        }
+      },
+      {
+        "nombreAutor" : {
+          "type" : "literal",
+          "value" : "Alessio Aghemo"
+        },
+        "correo" : {
+          "type" : "literal",
+          "value" : "alessio.aghemo@hunimed.eu"
+        },
+        "autor" : {
+          "type" : "uri",
+          "value" : "http://utpl.edu.ec/lod/publishingCOVID/ontology/Author/author-1444"
+        }
+      },
+      {
+        "nombreAutor" : {
+          "type" : "literal",
+          "value" : "Imran Ali"
+        },
+        "correo" : {
+          "type" : "literal",
+          "value" : "drimran_ali@yahoo.com"
+        },
+        "autor" : {
+          "type" : "uri",
+          "value" : "http://utpl.edu.ec/lod/publishingCOVID/ontology/Author/author-1458"
+        }
+      },
+      {
+        "nombreAutor" : {
+          "type" : "literal",
+          "value" : "E. Lescanne"
+        },
+        "correo" : {
+          "type" : "literal",
+          "value" : "lescanne@univ-tours.fr"
+        },
+        "autor" : {
+          "type" : "uri",
+          "value" : "http://utpl.edu.ec/lod/publishingCOVID/ontology/Author/author-1467"
+        }
+      },
+      {
+        "nombreAutor" : {
+          "type" : "literal",
+          "value" : "Nicola Decaro"
+        },
+        "correo" : {
+          "type" : "literal",
+          "value" : "nicola.decaro@uniba.it"
+        },
+        "autor" : {
+          "type" : "uri",
+          "value" : "http://utpl.edu.ec/lod/publishingCOVID/ontology/Author/author-1468"
+        }
+      },
+      {
+        "nombreAutor" : {
+          "type" : "literal",
+          "value" : "Vito Martella"
+        },
+        "correo" : {
+          "type" : "literal",
+          "value" : "vito.martella@uniba.it"
+        },
+        "autor" : {
+          "type" : "uri",
+          "value" : "http://utpl.edu.ec/lod/publishingCOVID/ontology/Author/author-1469"
+        }
+      },
+      {
+        "nombreAutor" : {
+          "type" : "literal",
+          "value" : "Linda J. Saif"
+        },
+        "correo" : {
+          "type" : "literal",
+          "value" : "saif.2@osu.edu"
+        },
+        "autor" : {
+          "type" : "uri",
+          "value" : "http://utpl.edu.ec/lod/publishingCOVID/ontology/Author/author-1470"
+        }
+      },
+      {
+        "nombreAutor" : {
+          "type" : "literal",
+          "value" : "Canio Buonavoglia"
+        },
+        "correo" : {
+          "type" : "literal",
+          "value" : "canio.buonavoglia@uniba.it"
+        },
+        "autor" : {
+          "type" : "uri",
+          "value" : "http://utpl.edu.ec/lod/publishingCOVID/ontology/Author/author-1471"
+        }
+      },
+      {
+        "nombreAutor" : {
+          "type" : "literal",
+          "value" : "Nowak Jan Krzysztof"
+        },
+        "correo" : {
+          "type" : "literal",
+          "value" : "jan.nowak@ump.edu.pl"
+        },
+        "autor" : {
+          "type" : "uri",
+          "value" : "http://utpl.edu.ec/lod/publishingCOVID/ontology/Author/author-154"
+        }
+      },
+      {
+        "nombreAutor" : {
+          "type" : "literal",
+          "value" : "Siew C. Ng"
+        },
+        "correo" : {
+          "type" : "literal",
+          "value" : "siewchienng@cuhk.edu.hk"
+        },
+        "autor" : {
+          "type" : "uri",
+          "value" : "http://utpl.edu.ec/lod/publishingCOVID/ontology/Author/author-176"
+        }
+      },
+      {
+        "nombreAutor" : {
+          "type" : "literal",
+          "value" : "Gonzalo Emiliano Aranda Abreu"
+        },
+        "correo" : {
+          "type" : "literal",
+          "value" : "garanda@uv.mx"
+        },
+        "autor" : {
+          "type" : "uri",
+          "value" : "http://utpl.edu.ec/lod/publishingCOVID/ontology/Author/author-177"
+        }
+      },
+      {
+        "nombreAutor" : {
+          "type" : "literal",
+          "value" : "María Elena Hernández Aguilar\n"
+        },
+        "correo" : {
+          "type" : "literal",
+          "value" : "elenahernandez@uv.mx"
+        },
+        "autor" : {
+          "type" : "uri",
+          "value" : "http://utpl.edu.ec/lod/publishingCOVID/ontology/Author/author-178"
+        }
+      },
+      {
+        "nombreAutor" : {
+          "type" : "literal",
+          "value" : "Deissy Herrera Covarrubias"
+        },
+        "correo" : {
+          "type" : "literal",
+          "value" : "dherrera@uv.mx"
+        },
+        "autor" : {
+          "type" : "uri",
+          "value" : "http://utpl.edu.ec/lod/publishingCOVID/ontology/Author/author-179"
+        }
+      },
+      {
+        "nombreAutor" : {
+          "type" : "literal",
+          "value" : "Fausto Rojas Durán"
+        },
+        "correo" : {
+          "type" : "literal",
+          "value" : "rojas@uv.mx"
+        },
+        "autor" : {
+          "type" : "uri",
+          "value" : "http://utpl.edu.ec/lod/publishingCOVID/ontology/Author/author-180"
+        }
+      },
+      {
+        "nombreAutor" : {
+          "type" : "literal",
+          "value" : "Manotosh Mandal"
+        },
+        "correo" : {
+          "type" : "literal",
+          "value" : "manotosh09@gmail.com"
+        },
+        "autor" : {
+          "type" : "uri",
+          "value" : "http://utpl.edu.ec/lod/publishingCOVID/ontology/Author/author-181"
+        }
+      },
+      {
+        "nombreAutor" : {
+          "type" : "literal",
+          "value" : "Soovoojeet Jana"
+        },
+        "correo" : {
+          "type" : "literal",
+          "value" : "soovoojeet@gmail.com"
+        },
+        "autor" : {
+          "type" : "uri",
+          "value" : "http://utpl.edu.ec/lod/publishingCOVID/ontology/Author/author-182"
+        }
+      },
+      {
+        "nombreAutor" : {
+          "type" : "literal",
+          "value" : "Swapan Kumar Nandi"
+        },
+        "correo" : {
+          "type" : "literal",
+          "value" : "nandi.swapan89@gmail.com"
+        },
+        "autor" : {
+          "type" : "uri",
+          "value" : "http://utpl.edu.ec/lod/publishingCOVID/ontology/Author/author-183"
+        }
+      },
+      {
+        "nombreAutor" : {
+          "type" : "literal",
+          "value" : "Anupam Khatua"
+        },
+        "correo" : {
+          "type" : "literal",
+          "value" : "akhatua06@gmail.com"
+        },
+        "autor" : {
+          "type" : "uri",
+          "value" : "http://utpl.edu.ec/lod/publishingCOVID/ontology/Author/author-184"
+        }
+      },
+      {
+        "nombreAutor" : {
+          "type" : "literal",
+          "value" : "Sayani Adak"
+        },
+        "correo" : {
+          "type" : "literal",
+          "value" : "sayaniadak1994@gmail.com"
+        },
+        "autor" : {
+          "type" : "uri",
+          "value" : "http://utpl.edu.ec/lod/publishingCOVID/ontology/Author/author-185"
+        }
+      },
+      {
+        "nombreAutor" : {
+          "type" : "literal",
+          "value" : "T.K. Kar"
+        },
+        "correo" : {
+          "type" : "literal",
+          "value" : "tkar1117@gmail.com"
+        },
+        "autor" : {
+          "type" : "uri",
+          "value" : "http://utpl.edu.ec/lod/publishingCOVID/ontology/Author/author-186"
+        }
+      },
+      {
+        "nombreAutor" : {
+          "type" : "literal",
+          "value" : "Myoung-don Oh"
+        },
+        "correo" : {
+          "type" : "literal",
+          "value" : "mdohmd@snu.ac.kr"
+        },
+        "autor" : {
+          "type" : "uri",
+          "value" : "http://utpl.edu.ec/lod/publishingCOVID/ontology/Author/author-19"
+        }
+      },
+      {
+        "nombreAutor" : {
+          "type" : "literal",
+          "value" : "Shawn Diamond MD"
+        },
+        "correo" : {
+          "type" : "literal",
+          "value" : "ShawnDiamondMD@gmail.com"
+        },
+        "autor" : {
+          "type" : "uri",
+          "value" : "http://utpl.edu.ec/lod/publishingCOVID/ontology/Author/author-20"
+        }
+      },
+      {
+        "nombreAutor" : {
+          "type" : "literal",
+          "value" : "You-Chun Wang"
+        },
+        "correo" : {
+          "type" : "literal",
+          "value" : "wangyc@nifdc.org.cn"
+        },
+        "autor" : {
+          "type" : "uri",
+          "value" : "http://utpl.edu.ec/lod/publishingCOVID/ontology/Author/author-204"
+        }
+      },
+      {
+        "nombreAutor" : {
+          "type" : "literal",
+          "value" : "Ruggero Capra"
+        },
+        "correo" : {
+          "type" : "literal",
+          "value" : "ruggero.capra@gmail.com"
+        },
+        "autor" : {
+          "type" : "uri",
+          "value" : "http://utpl.edu.ec/lod/publishingCOVID/ontology/Author/author-205"
+        }
+      },
+      {
+        "nombreAutor" : {
+          "type" : "literal",
+          "value" : "Shuhua Xi"
+        },
+        "correo" : {
+          "type" : "literal",
+          "value" : "shxi@cmu.edu.cn"
+        },
+        "autor" : {
+          "type" : "uri",
+          "value" : "http://utpl.edu.ec/lod/publishingCOVID/ontology/Author/author-220"
+        }
+      },
+      {
+        "nombreAutor" : {
+          "type" : "literal",
+          "value" : "Samson Ferm"
+        },
+        "correo" : {
+          "type" : "literal",
+          "value" : "Saf9081@nyp.org"
+        },
+        "autor" : {
+          "type" : "uri",
+          "value" : "http://utpl.edu.ec/lod/publishingCOVID/ontology/Author/author-221"
+        }
+      },
+      {
+        "nombreAutor" : {
+          "type" : "literal",
+          "value" : "Cleyton M. da Silva"
+        },
+        "correo" : {
+          "type" : "literal",
+          "value" : "cleyton.silva@uva.br"
+        },
+        "autor" : {
+          "type" : "uri",
+          "value" : "http://utpl.edu.ec/lod/publishingCOVID/ontology/Author/author-232"
+        }
+      },
+      {
+        "nombreAutor" : {
+          "type" : "literal",
+          "value" : "A. Sauvanet"
+        },
+        "correo" : {
+          "type" : "literal",
+          "value" : "alain.sauvanet@aphp.fr"
+        },
+        "autor" : {
+          "type" : "uri",
+          "value" : "http://utpl.edu.ec/lod/publishingCOVID/ontology/Author/author-242"
+        }
+      },
+      {
+        "nombreAutor" : {
+          "type" : "literal",
+          "value" : "Xingzhou Li\n"
+        },
+        "correo" : {
+          "type" : "literal",
+          "value" : "xingzhouli@aliyun.com"
+        },
+        "autor" : {
+          "type" : "uri",
+          "value" : "http://utpl.edu.ec/lod/publishingCOVID/ontology/Author/author-251"
+        }
+      },
+      {
+        "nombreAutor" : {
+          "type" : "literal",
+          "value" : "Mengzhu Zheng"
+        },
+        "correo" : {
+          "type" : "literal",
+          "value" : "mengzhu_zheng@hust.edu.cn"
+        },
+        "autor" : {
+          "type" : "uri",
+          "value" : "http://utpl.edu.ec/lod/publishingCOVID/ontology/Author/author-252"
+        }
+      },
+      {
+        "nombreAutor" : {
+          "type" : "literal",
+          "value" : "Lixia Chen"
+        },
+        "correo" : {
+          "type" : "literal",
+          "value" : "syzyclx@163.com"
+        },
+        "autor" : {
+          "type" : "uri",
+          "value" : "http://utpl.edu.ec/lod/publishingCOVID/ontology/Author/author-253"
+        }
+      },
+      {
+        "nombreAutor" : {
+          "type" : "literal",
+          "value" : "Hua Li"
+        },
+        "correo" : {
+          "type" : "literal",
+          "value" : "li_hua@hust.edu.cn"
+        },
+        "autor" : {
+          "type" : "uri",
+          "value" : "http://utpl.edu.ec/lod/publishingCOVID/ontology/Author/author-254"
+        }
+      },
+      {
+        "nombreAutor" : {
+          "type" : "literal",
+          "value" : "Timothy Powell-Jackson"
+        },
+        "correo" : {
+          "type" : "literal",
+          "value" : "timothy.powell-jackson@lshtm.ac.uk"
+        },
+        "autor" : {
+          "type" : "uri",
+          "value" : "http://utpl.edu.ec/lod/publishingCOVID/ontology/Author/author-267"
+        }
+      },
+      {
+        "nombreAutor" : {
+          "type" : "literal",
+          "value" : "Shilin Chen"
+        },
+        "correo" : {
+          "type" : "literal",
+          "value" : "slchen@icmm.ac.cn"
+        },
+        "autor" : {
+          "type" : "uri",
+          "value" : "http://utpl.edu.ec/lod/publishingCOVID/ontology/Author/author-281"
+        }
+      },
+      {
+        "nombreAutor" : {
+          "type" : "literal",
+          "value" : "María Velayos"
+        },
+        "correo" : {
+          "type" : "literal",
+          "value" : "mariavelayos@icloud.com"
+        },
+        "autor" : {
+          "type" : "uri",
+          "value" : "http://utpl.edu.ec/lod/publishingCOVID/ontology/Author/author-282"
+        }
+      },
+      {
+        "nombreAutor" : {
+          "type" : "literal",
+          "value" : "Jose María Remes-Troche"
+        },
+        "correo" : {
+          "type" : "literal",
+          "value" : "jose.remes.troche@gmail.com"
+        },
+        "autor" : {
+          "type" : "uri",
+          "value" : "http://utpl.edu.ec/lod/publishingCOVID/ontology/Author/author-289"
+        }
+      },
+      {
+        "nombreAutor" : {
+          "type" : "literal",
+          "value" : "J.M. Barrios-López"
+        },
+        "correo" : {
+          "type" : "literal",
+          "value" : "josemariabarrioslopez@gmail.com"
+        },
+        "autor" : {
+          "type" : "uri",
+          "value" : "http://utpl.edu.ec/lod/publishingCOVID/ontology/Author/author-29"
+        }
+      },
+      {
+        "nombreAutor" : {
+          "type" : "literal",
+          "value" : "R. Rubsamen"
+        },
+        "correo" : {
+          "type" : "literal",
+          "value" : "reidrubsamen@alum.mit.edu"
+        },
+        "autor" : {
+          "type" : "uri",
+          "value" : "http://utpl.edu.ec/lod/publishingCOVID/ontology/Author/author-310"
+        }
+      },
+      {
+        "nombreAutor" : {
+          "type" : "literal",
+          "value" : "Yuri Bruinen de Bruin"
+        },
+        "correo" : {
+          "type" : "literal",
+          "value" : "yuri.bruinen-de-bruin@ec.europa.eu"
+        },
+        "autor" : {
+          "type" : "uri",
+          "value" : "http://utpl.edu.ec/lod/publishingCOVID/ontology/Author/author-311"
+        }
+      },
+      {
+        "nombreAutor" : {
+          "type" : "literal",
+          "value" : "Alex R Cook"
+        },
+        "correo" : {
+          "type" : "literal",
+          "value" : "alex.richard.cook@gmail.com"
+        },
+        "autor" : {
+          "type" : "uri",
+          "value" : "http://utpl.edu.ec/lod/publishingCOVID/ontology/Author/author-320"
+        }
+      },
+      {
+        "nombreAutor" : {
+          "type" : "literal",
+          "value" : "Mariko Hiramatsu"
+        },
+        "correo" : {
+          "type" : "literal",
+          "value" : "hmariko@med.nagoya-u.ac.jp"
+        },
+        "autor" : {
+          "type" : "uri",
+          "value" : "http://utpl.edu.ec/lod/publishingCOVID/ontology/Author/author-327"
+        }
+      },
+      {
+        "nombreAutor" : {
+          "type" : "literal",
+          "value" : "Ashish Kumar"
+        },
+        "correo" : {
+          "type" : "literal",
+          "value" : "ashishk10@yahoo.com"
+        },
+        "autor" : {
+          "type" : "uri",
+          "value" : "http://utpl.edu.ec/lod/publishingCOVID/ontology/Author/author-335"
+        }
+      },
+      {
+        "nombreAutor" : {
+          "type" : "literal",
+          "value" : "Anil Arora"
+        },
+        "correo" : {
+          "type" : "literal",
+          "value" : "dranilarora50@gmail.com"
+        },
+        "autor" : {
+          "type" : "uri",
+          "value" : "http://utpl.edu.ec/lod/publishingCOVID/ontology/Author/author-336"
+        }
+      },
+      {
+        "nombreAutor" : {
+          "type" : "literal",
+          "value" : "Praveen Sharma"
+        },
+        "correo" : {
+          "type" : "literal",
+          "value" : "drpraveen_sharma@yahoo.com"
+        },
+        "autor" : {
+          "type" : "uri",
+          "value" : "http://utpl.edu.ec/lod/publishingCOVID/ontology/Author/author-337"
+        }
+      },
+      {
+        "nombreAutor" : {
+          "type" : "literal",
+          "value" : "Shrihari Anil Anikhindi"
+        },
+        "correo" : {
+          "type" : "literal",
+          "value" : "dr.anikhindi@gmail.com"
+        },
+        "autor" : {
+          "type" : "uri",
+          "value" : "http://utpl.edu.ec/lod/publishingCOVID/ontology/Author/author-338"
+        }
+      },
+      {
+        "nombreAutor" : {
+          "type" : "literal",
+          "value" : "Naresh Bansal"
+        },
+        "correo" : {
+          "type" : "literal",
+          "value" : "drnbansal@ymail.com"
+        },
+        "autor" : {
+          "type" : "uri",
+          "value" : "http://utpl.edu.ec/lod/publishingCOVID/ontology/Author/author-339"
+        }
+      },
+      {
+        "nombreAutor" : {
+          "type" : "literal",
+          "value" : "Vikas Singla"
+        },
+        "correo" : {
+          "type" : "literal",
+          "value" : "singlavikas1979@gmail.com"
+        },
+        "autor" : {
+          "type" : "uri",
+          "value" : "http://utpl.edu.ec/lod/publishingCOVID/ontology/Author/author-340"
+        }
+      },
+      {
+        "nombreAutor" : {
+          "type" : "literal",
+          "value" : "Shivam Khare"
+        },
+        "correo" : {
+          "type" : "literal",
+          "value" : "khare.shivam.shivam.1987@gmail.com"
+        },
+        "autor" : {
+          "type" : "uri",
+          "value" : "http://utpl.edu.ec/lod/publishingCOVID/ontology/Author/author-341"
+        }
+      },
+      {
+        "nombreAutor" : {
+          "type" : "literal",
+          "value" : "Abhishyant Srivastava"
+        },
+        "correo" : {
+          "type" : "literal",
+          "value" : "abhishyant.s@gmail.com"
+        },
+        "autor" : {
+          "type" : "uri",
+          "value" : "http://utpl.edu.ec/lod/publishingCOVID/ontology/Author/author-342"
+        }
+      },
+      {
+        "nombreAutor" : {
+          "type" : "literal",
+          "value" : "Xiangdong Chen "
+        },
+        "correo" : {
+          "type" : "literal",
+          "value" : "xiangdongchen2013@163.com"
+        },
+        "autor" : {
+          "type" : "uri",
+          "value" : "http://utpl.edu.ec/lod/publishingCOVID/ontology/Author/author-350"
+        }
+      },
+      {
+        "nombreAutor" : {
+          "type" : "literal",
+          "value" : "Alexandre Hyafil"
+        },
+        "correo" : {
+          "type" : "literal",
+          "value" : "ahyafil@crm.cat"
+        },
+        "autor" : {
+          "type" : "uri",
+          "value" : "http://utpl.edu.ec/lod/publishingCOVID/ontology/Author/author-351"
+        }
+      },
+      {
+        "nombreAutor" : {
+          "type" : "literal",
+          "value" : "Brandon Michael Henry"
+        },
+        "correo" : {
+          "type" : "literal",
+          "value" : "Brandon.henry@cchmc.org"
+        },
+        "autor" : {
+          "type" : "uri",
+          "value" : "http://utpl.edu.ec/lod/publishingCOVID/ontology/Author/author-353"
+        }
+      },
+      {
+        "nombreAutor" : {
+          "type" : "literal",
+          "value" : "É. Maeker"
+        },
+        "correo" : {
+          "type" : "literal",
+          "value" : "eric.maeker@gmail.com"
+        },
+        "autor" : {
+          "type" : "uri",
+          "value" : "http://utpl.edu.ec/lod/publishingCOVID/ontology/Author/author-366"
+        }
+      },
+      {
+        "nombreAutor" : {
+          "type" : "literal",
+          "value" : "Dr Proyecto Autopsias"
+        },
+        "correo" : {
+          "type" : "literal",
+          "value" : "anapat.hrc@salud.madrid.org"
+        },
+        "autor" : {
+          "type" : "uri",
+          "value" : "http://utpl.edu.ec/lod/publishingCOVID/ontology/Author/author-369"
+        }
+      },
+      {
+        "nombreAutor" : {
+          "type" : "literal",
+          "value" : "Lorenzo D'Antiga"
+        },
+        "correo" : {
+          "type" : "literal",
+          "value" : "ldantiga@asst-pg23.it"
+        },
+        "autor" : {
+          "type" : "uri",
+          "value" : "http://utpl.edu.ec/lod/publishingCOVID/ontology/Author/author-377"
+        }
+      },
+      {
+        "nombreAutor" : {
+          "type" : "literal",
+          "value" : "Ben A. Smith"
+        },
+        "correo" : {
+          "type" : "literal",
+          "value" : "ben.smith@canada.ca"
+        },
+        "autor" : {
+          "type" : "uri",
+          "value" : "http://utpl.edu.ec/lod/publishingCOVID/ontology/Author/author-378"
+        }
+      },
+      {
+        "nombreAutor" : {
+          "type" : "literal",
+          "value" : "Emre Arpali"
+        },
+        "correo" : {
+          "type" : "literal",
+          "value" : "arpemre@gmail.com"
+        },
+        "autor" : {
+          "type" : "uri",
+          "value" : "http://utpl.edu.ec/lod/publishingCOVID/ontology/Author/author-39"
+        }
+      },
+      {
+        "nombreAutor" : {
+          "type" : "literal",
+          "value" : "Zifeng Yang"
+        },
+        "correo" : {
+          "type" : "literal",
+          "value" : "jeffyah@163.com"
+        },
+        "autor" : {
+          "type" : "uri",
+          "value" : "http://utpl.edu.ec/lod/publishingCOVID/ontology/Author/author-393"
+        }
+      },
+      {
+        "nombreAutor" : {
+          "type" : "literal",
+          "value" : "Benoit H. Mulsant"
+        },
+        "correo" : {
+          "type" : "literal",
+          "value" : "benoit.mulsant@utoronto.ca"
+        },
+        "autor" : {
+          "type" : "uri",
+          "value" : "http://utpl.edu.ec/lod/publishingCOVID/ontology/Author/author-404"
+        }
+      },
+      {
+        "nombreAutor" : {
+          "type" : "literal",
+          "value" : "Abdo A. Elfiky"
+        },
+        "correo" : {
+          "type" : "literal",
+          "value" : "abdo@sci.cu.edu.eg"
+        },
+        "autor" : {
+          "type" : "uri",
+          "value" : "http://utpl.edu.ec/lod/publishingCOVID/ontology/Author/author-406"
+        }
+      },
+      {
+        "nombreAutor" : {
+          "type" : "literal",
+          "value" : "D. Cohen"
+        },
+        "correo" : {
+          "type" : "literal",
+          "value" : "david.cohen@aphp.fr"
+        },
+        "autor" : {
+          "type" : "uri",
+          "value" : "http://utpl.edu.ec/lod/publishingCOVID/ontology/Author/author-426"
+        }
+      },
+      {
+        "nombreAutor" : {
+          "type" : "literal",
+          "value" : "Junaid Kashir"
+        },
+        "correo" : {
+          "type" : "literal",
+          "value" : "jkashir@alfasial.edu"
+        },
+        "autor" : {
+          "type" : "uri",
+          "value" : "http://utpl.edu.ec/lod/publishingCOVID/ontology/Author/author-427"
+        }
+      },
+      {
+        "nombreAutor" : {
+          "type" : "literal",
+          "value" : "Zhiyuan Weng"
+        },
+        "correo" : {
+          "type" : "literal",
+          "value" : "wengzhiyuan@fjmu.edu.cn"
+        },
+        "autor" : {
+          "type" : "uri",
+          "value" : "http://utpl.edu.ec/lod/publishingCOVID/ontology/Author/author-435"
+        }
+      },
+      {
+        "nombreAutor" : {
+          "type" : "literal",
+          "value" : "Li Yang"
+        },
+        "correo" : {
+          "type" : "literal",
+          "value" : "yangli_hx@scu.edu.cn"
+        },
+        "autor" : {
+          "type" : "uri",
+          "value" : "http://utpl.edu.ec/lod/publishingCOVID/ontology/Author/author-436"
+        }
+      },
+      {
+        "nombreAutor" : {
+          "type" : "literal",
+          "value" : "Deepa Handu"
+        },
+        "correo" : {
+          "type" : "literal",
+          "value" : "dhandu@eatright.org"
+        },
+        "autor" : {
+          "type" : "uri",
+          "value" : "http://utpl.edu.ec/lod/publishingCOVID/ontology/Author/author-437"
+        }
+      },
+      {
+        "nombreAutor" : {
+          "type" : "literal",
+          "value" : "Lawrence Han Hwee Quek"
+        },
+        "correo" : {
+          "type" : "literal",
+          "value" : "lawrence_quek@ttsh.com.sg"
+        },
+        "autor" : {
+          "type" : "uri",
+          "value" : "http://utpl.edu.ec/lod/publishingCOVID/ontology/Author/author-441"
+        }
+      },
+      {
+        "nombreAutor" : {
+          "type" : "literal",
+          "value" : "Yolanda Martín-Vaquero"
+        },
+        "correo" : {
+          "type" : "literal",
+          "value" : "ymartinv@saludcastillayleon.es"
+        },
+        "autor" : {
+          "type" : "uri",
+          "value" : "http://utpl.edu.ec/lod/publishingCOVID/ontology/Author/author-457"
+        }
+      },
+      {
+        "nombreAutor" : {
+          "type" : "literal",
+          "value" : "Maher El Chaa"
+        },
+        "correo" : {
+          "type" : "literal",
+          "value" : "Maher.Elchaar@sluhn.org"
+        },
+        "autor" : {
+          "type" : "uri",
+          "value" : "http://utpl.edu.ec/lod/publishingCOVID/ontology/Author/author-460"
+        }
+      },
+      {
+        "nombreAutor" : {
+          "type" : "literal",
+          "value" : "J.M. Remes-Troche"
+        },
+        "correo" : {
+          "type" : "literal",
+          "value" : "jose.remes.troche@gmail.com"
+        },
+        "autor" : {
+          "type" : "uri",
+          "value" : "http://utpl.edu.ec/lod/publishingCOVID/ontology/Author/author-465"
+        }
+      },
+      {
+        "nombreAutor" : {
+          "type" : "literal",
+          "value" : "Olivier Peyrony"
+        },
+        "correo" : {
+          "type" : "literal",
+          "value" : "o.peyrony@hotmail.fr"
+        },
+        "autor" : {
+          "type" : "uri",
+          "value" : "http://utpl.edu.ec/lod/publishingCOVID/ontology/Author/author-48"
+        }
+      },
+      {
+        "nombreAutor" : {
+          "type" : "literal",
+          "value" : "Ajay Kumar Mishra"
+        },
+        "correo" : {
+          "type" : "literal",
+          "value" : "Ajay.Mishra@stvincenthosptial.com"
+        },
+        "autor" : {
+          "type" : "uri",
+          "value" : "http://utpl.edu.ec/lod/publishingCOVID/ontology/Author/author-489"
+        }
+      },
+      {
+        "nombreAutor" : {
+          "type" : "literal",
+          "value" : "Kamal Kant Sahu"
+        },
+        "correo" : {
+          "type" : "literal",
+          "value" : "Kamalkant.Sahu@stvincenthospital.com"
+        },
+        "autor" : {
+          "type" : "uri",
+          "value" : "http://utpl.edu.ec/lod/publishingCOVID/ontology/Author/author-490"
+        }
+      },
+      {
+        "nombreAutor" : {
+          "type" : "literal",
+          "value" : "Anu Anna George"
+        },
+        "correo" : {
+          "type" : "literal",
+          "value" : "anugeorg@gmail.com"
+        },
+        "autor" : {
+          "type" : "uri",
+          "value" : "http://utpl.edu.ec/lod/publishingCOVID/ontology/Author/author-491"
+        }
+      },
+      {
+        "nombreAutor" : {
+          "type" : "literal",
+          "value" : "Amos Lal"
+        },
+        "correo" : {
+          "type" : "literal",
+          "value" : "Lal.Amos@mayo.edu"
+        },
+        "autor" : {
+          "type" : "uri",
+          "value" : "http://utpl.edu.ec/lod/publishingCOVID/ontology/Author/author-492"
+        }
+      },
+      {
+        "nombreAutor" : {
+          "type" : "literal",
+          "value" : "Hai-Feng Ji"
+        },
+        "correo" : {
+          "type" : "literal",
+          "value" : "hj56@drexel.edu"
+        },
+        "autor" : {
+          "type" : "uri",
+          "value" : "http://utpl.edu.ec/lod/publishingCOVID/ontology/Author/author-513"
+        }
+      },
+      {
+        "nombreAutor" : {
+          "type" : "literal",
+          "value" : "Alessandro Sette"
+        },
+        "correo" : {
+          "type" : "literal",
+          "value" : "alex@lji.org"
+        },
+        "autor" : {
+          "type" : "uri",
+          "value" : "http://utpl.edu.ec/lod/publishingCOVID/ontology/Author/author-519"
+        }
+      },
+      {
+        "nombreAutor" : {
+          "type" : "literal",
+          "value" : "Madhav Swaminathan"
+        },
+        "correo" : {
+          "type" : "literal",
+          "value" : "swami001@mc.duke.edu"
+        },
+        "autor" : {
+          "type" : "uri",
+          "value" : "http://utpl.edu.ec/lod/publishingCOVID/ontology/Author/author-526"
+        }
+      },
+      {
+        "nombreAutor" : {
+          "type" : "literal",
+          "value" : "Josep Mª Garcia-Alamino"
+        },
+        "correo" : {
+          "type" : "literal",
+          "value" : "josepmariagarciaa@gmail.com"
+        },
+        "autor" : {
+          "type" : "uri",
+          "value" : "http://utpl.edu.ec/lod/publishingCOVID/ontology/Author/author-527"
+        }
+      },
+      {
+        "nombreAutor" : {
+          "type" : "literal",
+          "value" : "Faïçal Ndaïrou"
+        },
+        "correo" : {
+          "type" : "literal",
+          "value" : "faical@ua.pt"
+        },
+        "autor" : {
+          "type" : "uri",
+          "value" : "http://utpl.edu.ec/lod/publishingCOVID/ontology/Author/author-528"
+        }
+      },
+      {
+        "nombreAutor" : {
+          "type" : "literal",
+          "value" : "Iván Area"
+        },
+        "correo" : {
+          "type" : "literal",
+          "value" : "area@uvigo.es"
+        },
+        "autor" : {
+          "type" : "uri",
+          "value" : "http://utpl.edu.ec/lod/publishingCOVID/ontology/Author/author-529"
+        }
+      },
+      {
+        "nombreAutor" : {
+          "type" : "literal",
+          "value" : "Juan J. Nieto"
+        },
+        "correo" : {
+          "type" : "literal",
+          "value" : "juanjose.nieto.roig@usc.es"
+        },
+        "autor" : {
+          "type" : "uri",
+          "value" : "http://utpl.edu.ec/lod/publishingCOVID/ontology/Author/author-530"
+        }
+      },
+      {
+        "nombreAutor" : {
+          "type" : "literal",
+          "value" : "Delfim F.M. Torres"
+        },
+        "correo" : {
+          "type" : "literal",
+          "value" : "delfim@ua.pt"
+        },
+        "autor" : {
+          "type" : "uri",
+          "value" : "http://utpl.edu.ec/lod/publishingCOVID/ontology/Author/author-531"
+        }
+      },
+      {
+        "nombreAutor" : {
+          "type" : "literal",
+          "value" : "Christian G. Daughton"
+        },
+        "correo" : {
+          "type" : "literal",
+          "value" : "daughton.etox@gmail.com"
+        },
+        "autor" : {
+          "type" : "uri",
+          "value" : "http://utpl.edu.ec/lod/publishingCOVID/ontology/Author/author-538"
+        }
+      },
+      {
+        "nombreAutor" : {
+          "type" : "literal",
+          "value" : "Bok Ai Choo"
+        },
+        "correo" : {
+          "type" : "literal",
+          "value" : "bokai.choo@icon.team"
+        },
+        "autor" : {
+          "type" : "uri",
+          "value" : "http://utpl.edu.ec/lod/publishingCOVID/ontology/Author/author-541"
+        }
+      },
+      {
+        "nombreAutor" : {
+          "type" : "literal",
+          "value" : "Nassiba Baimatova"
+        },
+        "correo" : {
+          "type" : "literal",
+          "value" : "baimatova@cfhma.kz"
+        },
+        "autor" : {
+          "type" : "uri",
+          "value" : "http://utpl.edu.ec/lod/publishingCOVID/ontology/Author/author-550"
+        }
+      },
+      {
+        "nombreAutor" : {
+          "type" : "literal",
+          "value" : "Sourabh Verma"
+        },
+        "correo" : {
+          "type" : "literal",
+          "value" : "sourabh.verma@nyulangone.org"
+        },
+        "autor" : {
+          "type" : "uri",
+          "value" : "http://utpl.edu.ec/lod/publishingCOVID/ontology/Author/author-556"
+        }
+      },
+      {
+        "nombreAutor" : {
+          "type" : "literal",
+          "value" : "Elena V. Wachtel"
+        },
+        "correo" : {
+          "type" : "literal",
+          "value" : "elena.wachtel@nyulangone.org"
+        },
+        "autor" : {
+          "type" : "uri",
+          "value" : "http://utpl.edu.ec/lod/publishingCOVID/ontology/Author/author-560"
+        }
+      },
+      {
+        "nombreAutor" : {
+          "type" : "literal",
+          "value" : "Bgee Kunjumon"
+        },
+        "correo" : {
+          "type" : "literal",
+          "value" : "bgee.kunjumon@nyulangone.org"
+        },
+        "autor" : {
+          "type" : "uri",
+          "value" : "http://utpl.edu.ec/lod/publishingCOVID/ontology/Author/author-561"
+        }
+      },
+      {
+        "nombreAutor" : {
+          "type" : "literal",
+          "value" : "Pradeep V. Mally"
+        },
+        "correo" : {
+          "type" : "literal",
+          "value" : "pradeep.mally@nyulangone.org"
+        },
+        "autor" : {
+          "type" : "uri",
+          "value" : "http://utpl.edu.ec/lod/publishingCOVID/ontology/Author/author-563"
+        }
+      },
+      {
+        "nombreAutor" : {
+          "type" : "literal",
+          "value" : "Adiguno Suryo Wicaksono"
+        },
+        "correo" : {
+          "type" : "literal",
+          "value" : "adiguno.sw@ugm.ac.id"
+        },
+        "autor" : {
+          "type" : "uri",
+          "value" : "http://utpl.edu.ec/lod/publishingCOVID/ontology/Author/author-565"
+        }
+      },
+      {
+        "nombreAutor" : {
+          "type" : "literal",
+          "value" : "James M. Hotaling"
+        },
+        "correo" : {
+          "type" : "literal",
+          "value" : "jim.hotaling@hsc.utah.edu"
+        },
+        "autor" : {
+          "type" : "uri",
+          "value" : "http://utpl.edu.ec/lod/publishingCOVID/ontology/Author/author-600"
+        }
+      },
+      {
+        "nombreAutor" : {
+          "type" : "literal",
+          "value" : "Guangtong Deng\n"
+        },
+        "correo" : {
+          "type" : "literal",
+          "value" : "dengguangtong@outlook.com"
+        },
+        "autor" : {
+          "type" : "uri",
+          "value" : "http://utpl.edu.ec/lod/publishingCOVID/ontology/Author/author-607"
+        }
+      },
+      {
+        "nombreAutor" : {
+          "type" : "literal",
+          "value" : "Peter Foster"
+        },
+        "correo" : {
+          "type" : "literal",
+          "value" : "pfoster@bhs1.org"
+        },
+        "autor" : {
+          "type" : "uri",
+          "value" : "http://utpl.edu.ec/lod/publishingCOVID/ontology/Author/author-608"
+        }
+      },
+      {
+        "nombreAutor" : {
+          "type" : "literal",
+          "value" : "Baoli Zhu"
+        },
+        "correo" : {
+          "type" : "literal",
+          "value" : "zhubl@jscdc.cn"
+        },
+        "autor" : {
+          "type" : "uri",
+          "value" : "http://utpl.edu.ec/lod/publishingCOVID/ontology/Author/author-627"
+        }
+      },
+      {
+        "nombreAutor" : {
+          "type" : "literal",
+          "value" : "Lunbiao Cui"
+        },
+        "correo" : {
+          "type" : "literal",
+          "value" : "lbcui@jscdc.cn"
+        },
+        "autor" : {
+          "type" : "uri",
+          "value" : "http://utpl.edu.ec/lod/publishingCOVID/ontology/Author/author-628"
+        }
+      },
+      {
+        "nombreAutor" : {
+          "type" : "literal",
+          "value" : "Bin Wu"
+        },
+        "correo" : {
+          "type" : "literal",
+          "value" : "wubinjscdc@163.com"
+        },
+        "autor" : {
+          "type" : "uri",
+          "value" : "http://utpl.edu.ec/lod/publishingCOVID/ontology/Author/author-629"
+        }
+      },
+      {
+        "nombreAutor" : {
+          "type" : "literal",
+          "value" : "Mir F.A. Quadri"
+        },
+        "correo" : {
+          "type" : "literal",
+          "value" : "dr.faeq.quadri@gmail.com"
+        },
+        "autor" : {
+          "type" : "uri",
+          "value" : "http://utpl.edu.ec/lod/publishingCOVID/ontology/Author/author-630"
+        }
+      },
+      {
+        "nombreAutor" : {
+          "type" : "literal",
+          "value" : "Min-Hu Chen"
+        },
+        "correo" : {
+          "type" : "literal",
+          "value" : "chenminhu@mail.sysu.edu.cn"
+        },
+        "autor" : {
+          "type" : "uri",
+          "value" : "http://utpl.edu.ec/lod/publishingCOVID/ontology/Author/author-652"
+        }
+      },
+      {
+        "nombreAutor" : {
+          "type" : "literal",
+          "value" : "Ren Mao"
+        },
+        "correo" : {
+          "type" : "literal",
+          "value" : "maoren2023@gmail.com"
+        },
+        "autor" : {
+          "type" : "uri",
+          "value" : "http://utpl.edu.ec/lod/publishingCOVID/ontology/Author/author-653"
+        }
+      },
+      {
+        "nombreAutor" : {
+          "type" : "literal",
+          "value" : "Maosheng Yao"
+        },
+        "correo" : {
+          "type" : "literal",
+          "value" : "ao@pku.edu.cn"
+        },
+        "autor" : {
+          "type" : "uri",
+          "value" : "http://utpl.edu.ec/lod/publishingCOVID/ontology/Author/author-656"
+        }
+      },
+      {
+        "nombreAutor" : {
+          "type" : "literal",
+          "value" : "Mario García-Carrasco"
+        },
+        "correo" : {
+          "type" : "literal",
+          "value" : "mgc30591@yahoo.com"
+        },
+        "autor" : {
+          "type" : "uri",
+          "value" : "http://utpl.edu.ec/lod/publishingCOVID/ontology/Author/author-661"
+        }
+      },
+      {
+        "nombreAutor" : {
+          "type" : "literal",
+          "value" : "Jianping Huang"
+        },
+        "correo" : {
+          "type" : "literal",
+          "value" : "hjp@lzu.edu.cn"
+        },
+        "autor" : {
+          "type" : "uri",
+          "value" : "http://utpl.edu.ec/lod/publishingCOVID/ontology/Author/author-665"
+        }
+      },
+      {
+        "nombreAutor" : {
+          "type" : "literal",
+          "value" : "Eloi Marijon"
+        },
+        "correo" : {
+          "type" : "literal",
+          "value" : "eloi_marijon@yahoo.fr"
+        },
+        "autor" : {
+          "type" : "uri",
+          "value" : "http://utpl.edu.ec/lod/publishingCOVID/ontology/Author/author-670"
+        }
+      },
+      {
+        "nombreAutor" : {
+          "type" : "literal",
+          "value" : "Mohamed Bahlol"
+        },
+        "correo" : {
+          "type" : "literal",
+          "value" : "ph_hossni@yahoo.com"
+        },
+        "autor" : {
+          "type" : "uri",
+          "value" : "http://utpl.edu.ec/lod/publishingCOVID/ontology/Author/author-689"
+        }
+      },
+      {
+        "nombreAutor" : {
+          "type" : "literal",
+          "value" : "Rebecca Susan Dewey"
+        },
+        "correo" : {
+          "type" : "literal",
+          "value" : "rebecca.dewey@nottingham.ac.uk"
+        },
+        "autor" : {
+          "type" : "uri",
+          "value" : "http://utpl.edu.ec/lod/publishingCOVID/ontology/Author/author-690"
+        }
+      },
+      {
+        "nombreAutor" : {
+          "type" : "literal",
+          "value" : "H. Javelot"
+        },
+        "correo" : {
+          "type" : "literal",
+          "value" : "herve.javelot@ch-epsan.fr"
+        },
+        "autor" : {
+          "type" : "uri",
+          "value" : "http://utpl.edu.ec/lod/publishingCOVID/ontology/Author/author-691"
+        }
+      },
+      {
+        "nombreAutor" : {
+          "type" : "literal",
+          "value" : "Christian R. Francom"
+        },
+        "correo" : {
+          "type" : "literal",
+          "value" : "Christian.francom@childrenscolorado.org"
+        },
+        "autor" : {
+          "type" : "uri",
+          "value" : "http://utpl.edu.ec/lod/publishingCOVID/ontology/Author/author-693"
+        }
+      },
+      {
+        "nombreAutor" : {
+          "type" : "literal",
+          "value" : "Esther E. Freeman"
+        },
+        "correo" : {
+          "type" : "literal",
+          "value" : "efreeman@mgh.harvard.edu"
+        },
+        "autor" : {
+          "type" : "uri",
+          "value" : "http://utpl.edu.ec/lod/publishingCOVID/ontology/Author/author-724"
+        }
+      },
+      {
+        "nombreAutor" : {
+          "type" : "literal",
+          "value" : "Bárbara Badanta Romero"
+        },
+        "correo" : {
+          "type" : "literal",
+          "value" : "bbadanta@us.es"
+        },
+        "autor" : {
+          "type" : "uri",
+          "value" : "http://utpl.edu.ec/lod/publishingCOVID/ontology/Author/author-739"
+        }
+      },
+      {
+        "nombreAutor" : {
+          "type" : "literal",
+          "value" : "Dong Liu"
+        },
+        "correo" : {
+          "type" : "literal",
+          "value" : "l_d2069@163.com"
+        },
+        "autor" : {
+          "type" : "uri",
+          "value" : "http://utpl.edu.ec/lod/publishingCOVID/ontology/Author/author-743"
+        }
+      },
+      {
+        "nombreAutor" : {
+          "type" : "literal",
+          "value" : "Juan Li"
+        },
+        "correo" : {
+          "type" : "literal",
+          "value" : "lijuan@tjh.tjmu.edu.cn"
+        },
+        "autor" : {
+          "type" : "uri",
+          "value" : "http://utpl.edu.ec/lod/publishingCOVID/ontology/Author/author-744"
+        }
+      },
+      {
+        "nombreAutor" : {
+          "type" : "literal",
+          "value" : "Yu Zhang"
+        },
+        "correo" : {
+          "type" : "literal",
+          "value" : "whxhzy@163.com"
+        },
+        "autor" : {
+          "type" : "uri",
+          "value" : "http://utpl.edu.ec/lod/publishingCOVID/ontology/Author/author-750"
+        }
+      },
+      {
+        "nombreAutor" : {
+          "type" : "literal",
+          "value" : "Chen Shi"
+        },
+        "correo" : {
+          "type" : "literal",
+          "value" : "29136909@qq.com"
+        },
+        "autor" : {
+          "type" : "uri",
+          "value" : "http://utpl.edu.ec/lod/publishingCOVID/ontology/Author/author-751"
+        }
+      },
+      {
+        "nombreAutor" : {
+          "type" : "literal",
+          "value" : "Vladimir M. Kushnir"
+        },
+        "correo" : {
+          "type" : "literal",
+          "value" : "vkushnir@wustl.edu"
+        },
+        "autor" : {
+          "type" : "uri",
+          "value" : "http://utpl.edu.ec/lod/publishingCOVID/ontology/Author/author-752"
+        }
+      },
+      {
+        "nombreAutor" : {
+          "type" : "literal",
+          "value" : "Yingxia Liu"
+        },
+        "correo" : {
+          "type" : "literal",
+          "value" : "yingxialiu@hotmail.com"
+        },
+        "autor" : {
+          "type" : "uri",
+          "value" : "http://utpl.edu.ec/lod/publishingCOVID/ontology/Author/author-778"
+        }
+      },
+      {
+        "nombreAutor" : {
+          "type" : "literal",
+          "value" : "A. Chevance"
+        },
+        "correo" : {
+          "type" : "literal",
+          "value" : "astrid.chevance@gmail.com"
+        },
+        "autor" : {
+          "type" : "uri",
+          "value" : "http://utpl.edu.ec/lod/publishingCOVID/ontology/Author/author-779"
+        }
+      },
+      {
+        "nombreAutor" : {
+          "type" : "literal",
+          "value" : "Zhen-Guo Wang"
+        },
+        "correo" : {
+          "type" : "literal",
+          "value" : "zhenguow@126.com"
+        },
+        "autor" : {
+          "type" : "uri",
+          "value" : "http://utpl.edu.ec/lod/publishingCOVID/ontology/Author/author-79"
+        }
+      },
+      {
+        "nombreAutor" : {
+          "type" : "literal",
+          "value" : "José Manuel Aranda-Narváez"
+        },
+        "correo" : {
+          "type" : "literal",
+          "value" : "Josearanda68@telefonica.net"
+        },
+        "autor" : {
+          "type" : "uri",
+          "value" : "http://utpl.edu.ec/lod/publishingCOVID/ontology/Author/author-793"
+        }
+      },
+      {
+        "nombreAutor" : {
+          "type" : "literal",
+          "value" : "Xian-Jun Fu"
+        },
+        "correo" : {
+          "type" : "literal",
+          "value" : "xianxiu@hotmail.com"
+        },
+        "autor" : {
+          "type" : "uri",
+          "value" : "http://utpl.edu.ec/lod/publishingCOVID/ontology/Author/author-80"
+        }
+      },
+      {
+        "nombreAutor" : {
+          "type" : "literal",
+          "value" : "Ozal Yildirim\r\n"
+        },
+        "correo" : {
+          "type" : "literal",
+          "value" : "oyildirim@munzur.edu.tr"
+        },
+        "autor" : {
+          "type" : "uri",
+          "value" : "http://utpl.edu.ec/lod/publishingCOVID/ontology/Author/author-814"
+        }
+      },
+      {
+        "nombreAutor" : {
+          "type" : "literal",
+          "value" : "Dana J. Lukin"
+        },
+        "correo" : {
+          "type" : "literal",
+          "value" : "djl9010@med.cornell.edu"
+        },
+        "autor" : {
+          "type" : "uri",
+          "value" : "http://utpl.edu.ec/lod/publishingCOVID/ontology/Author/author-816"
+        }
+      },
+      {
+        "nombreAutor" : {
+          "type" : "literal",
+          "value" : "Fatemeh Jafari"
+        },
+        "correo" : {
+          "type" : "literal",
+          "value" : "fatemeh.jafari92@yahoo.com"
+        },
+        "autor" : {
+          "type" : "uri",
+          "value" : "http://utpl.edu.ec/lod/publishingCOVID/ontology/Author/author-824"
+        }
+      },
+      {
+        "nombreAutor" : {
+          "type" : "literal",
+          "value" : "Fábio A.M. Cássaro"
+        },
+        "correo" : {
+          "type" : "literal",
+          "value" : "fcassaro@uepg.br"
+        },
+        "autor" : {
+          "type" : "uri",
+          "value" : "http://utpl.edu.ec/lod/publishingCOVID/ontology/Author/author-826"
+        }
+      },
+      {
+        "nombreAutor" : {
+          "type" : "literal",
+          "value" : "Anwar Santoso"
+        },
+        "correo" : {
+          "type" : "literal",
+          "value" : "anwarsantoso@inaheart.org"
+        },
+        "autor" : {
+          "type" : "uri",
+          "value" : "http://utpl.edu.ec/lod/publishingCOVID/ontology/Author/author-828"
+        }
+      },
+      {
+        "nombreAutor" : {
+          "type" : "literal",
+          "value" : "Qian Tao"
+        },
+        "correo" : {
+          "type" : "literal",
+          "value" : "q.tao@lumc.nl"
+        },
+        "autor" : {
+          "type" : "uri",
+          "value" : "http://utpl.edu.ec/lod/publishingCOVID/ontology/Author/author-842"
+        }
+      },
+      {
+        "nombreAutor" : {
+          "type" : "literal",
+          "value" : "Liming Xia"
+        },
+        "correo" : {
+          "type" : "literal",
+          "value" : "lmxia@tjh.tjmu.edu.cn"
+        },
+        "autor" : {
+          "type" : "uri",
+          "value" : "http://utpl.edu.ec/lod/publishingCOVID/ontology/Author/author-843"
+        }
+      },
+      {
+        "nombreAutor" : {
+          "type" : "literal",
+          "value" : "Xiaoyong Li"
+        },
+        "correo" : {
+          "type" : "literal",
+          "value" : "LXYong5210@163.com"
+        },
+        "autor" : {
+          "type" : "uri",
+          "value" : "http://utpl.edu.ec/lod/publishingCOVID/ontology/Author/author-844"
+        }
+      },
+      {
+        "nombreAutor" : {
+          "type" : "literal",
+          "value" : "Sha Yu"
+        },
+        "correo" : {
+          "type" : "literal",
+          "value" : "yusha1218@126.com"
+        },
+        "autor" : {
+          "type" : "uri",
+          "value" : "http://utpl.edu.ec/lod/publishingCOVID/ontology/Author/author-845"
+        }
+      },
+      {
+        "nombreAutor" : {
+          "type" : "literal",
+          "value" : "Desheng Hu\r\n"
+        },
+        "correo" : {
+          "type" : "literal",
+          "value" : "desheng.hu@hust.edu.cn"
+        },
+        "autor" : {
+          "type" : "uri",
+          "value" : "http://utpl.edu.ec/lod/publishingCOVID/ontology/Author/author-857"
+        }
+      },
+      {
+        "nombreAutor" : {
+          "type" : "literal",
+          "value" : "Hai-Bin Luo"
+        },
+        "correo" : {
+          "type" : "literal",
+          "value" : "luohb77@mail.sysu.edu.cn"
+        },
+        "autor" : {
+          "type" : "uri",
+          "value" : "http://utpl.edu.ec/lod/publishingCOVID/ontology/Author/author-876"
+        }
+      },
+      {
+        "nombreAutor" : {
+          "type" : "literal",
+          "value" : "X. Sunney Xie"
+        },
+        "correo" : {
+          "type" : "literal",
+          "value" : "sunneyxie@pku.edu.cn"
+        },
+        "autor" : {
+          "type" : "uri",
+          "value" : "http://utpl.edu.ec/lod/publishingCOVID/ontology/Author/author-895"
+        }
+      },
+      {
+        "nombreAutor" : {
+          "type" : "literal",
+          "value" : "Iago Rodríguez-Lago"
+        },
+        "correo" : {
+          "type" : "literal",
+          "value" : "iago.r.lago@gmail.com"
+        },
+        "autor" : {
+          "type" : "uri",
+          "value" : "http://utpl.edu.ec/lod/publishingCOVID/ontology/Author/author-900"
+        }
+      },
+      {
+        "nombreAutor" : {
+          "type" : "literal",
+          "value" : "M. Roustit"
+        },
+        "correo" : {
+          "type" : "literal",
+          "value" : "mroustit@chu-grenoble.fr"
+        },
+        "autor" : {
+          "type" : "uri",
+          "value" : "http://utpl.edu.ec/lod/publishingCOVID/ontology/Author/author-906"
+        }
+      },
+      {
+        "nombreAutor" : {
+          "type" : "literal",
+          "value" : "Awadhesh Kumar"
+        },
+        "correo" : {
+          "type" : "literal",
+          "value" : "draksingh_2001@yahoo.com"
+        },
+        "autor" : {
+          "type" : "uri",
+          "value" : "http://utpl.edu.ec/lod/publishingCOVID/ontology/Author/author-912"
+        }
+      },
+      {
+        "nombreAutor" : {
+          "type" : "literal",
+          "value" : "Manuel López Cano"
+        },
+        "correo" : {
+          "type" : "literal",
+          "value" : "mlpezcano@gmail.com"
+        },
+        "autor" : {
+          "type" : "uri",
+          "value" : "http://utpl.edu.ec/lod/publishingCOVID/ontology/Author/author-917"
+        }
+      },
+      {
+        "nombreAutor" : {
+          "type" : "literal",
+          "value" : "Helmut Prosch"
+        },
+        "correo" : {
+          "type" : "literal",
+          "value" : "helmut.prosch@meduniwien.ac.at"
+        },
+        "autor" : {
+          "type" : "uri",
+          "value" : "http://utpl.edu.ec/lod/publishingCOVID/ontology/Author/author-94"
+        }
+      },
+      {
+        "nombreAutor" : {
+          "type" : "literal",
+          "value" : "JM Lombardi"
+        },
+        "correo" : {
+          "type" : "literal",
+          "value" : "joseph.m.lombardi@gmail.com"
+        },
+        "autor" : {
+          "type" : "uri",
+          "value" : "http://utpl.edu.ec/lod/publishingCOVID/ontology/Author/author-95"
+        }
+      },
+      {
+        "nombreAutor" : {
+          "type" : "literal",
+          "value" : "Wei Hou"
+        },
+        "correo" : {
+          "type" : "literal",
+          "value" : "houwei@whu.edu.cn"
+        },
+        "autor" : {
+          "type" : "uri",
+          "value" : "http://utpl.edu.ec/lod/publishingCOVID/ontology/Author/author-954"
+        }
+      },
+      {
+        "nombreAutor" : {
+          "type" : "literal",
+          "value" : "Wei Wang"
+        },
+        "correo" : {
+          "type" : "literal",
+          "value" : "wangwei1069@163.com"
+        },
+        "autor" : {
+          "type" : "uri",
+          "value" : "http://utpl.edu.ec/lod/publishingCOVID/ontology/Author/author-966"
+        }
+      },
+      {
+        "nombreAutor" : {
+          "type" : "literal",
+          "value" : "Jincao Chen"
+        },
+        "correo" : {
+          "type" : "literal",
+          "value" : "chenjincao2012@163.com"
+        },
+        "autor" : {
+          "type" : "uri",
+          "value" : "http://utpl.edu.ec/lod/publishingCOVID/ontology/Author/author-967"
+        }
+      },
+      {
+        "nombreAutor" : {
+          "type" : "literal",
+          "value" : "Shailendra Singh"
+        },
+        "correo" : {
+          "type" : "literal",
+          "value" : "Shail121@gmail.com"
+        },
+        "autor" : {
+          "type" : "uri",
+          "value" : "http://utpl.edu.ec/lod/publishingCOVID/ontology/Author/author-968"
+        }
+      },
+      {
+        "nombreAutor" : {
+          "type" : "literal",
+          "value" : "Wengang Li "
+        },
+        "correo" : {
+          "type" : "literal",
+          "value" : "228907211@qq.com"
+        },
+        "autor" : {
+          "type" : "uri",
+          "value" : "http://utpl.edu.ec/lod/publishingCOVID/ontology/Author/author-976"
+        }
+      },
+      {
+        "nombreAutor" : {
+          "type" : "literal",
+          "value" : "Huachun Zou"
+        },
+        "correo" : {
+          "type" : "literal",
+          "value" : "zouhuachun@mail.sysu.edu.cn"
+        },
+        "autor" : {
+          "type" : "uri",
+          "value" : "http://utpl.edu.ec/lod/publishingCOVID/ontology/Author/author-999"
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,123 @@
+{% extends 'layaout.html' %}
+{% block body %}
+
+
+
+<div class="row">
+  <div class="col-xs-4">
+
+
+    {% with messages= get_flashed_messages() %}
+    {% if messages %}
+    {% for men in messages %}
+
+
+    <div class="alert alert-success alert-dismissible fade show" role="alert">
+      <p>{{messages}}</p>
+      <button type="button" class="close" data-dismiss="alert" aria-label="Close">
+        <span aria-hidden="true">&times;</span>
+      </button>
+    </div>
+
+      {% endfor %}
+      {%endif%}
+      {% endwith%}
+
+      <div class="card card-body">
+        <table class="table table-striped table-bordered bg-white">
+            <thead>
+                <tr>
+                    <td>nombrePaises</td>
+                    <td>cantidad</td>
+                </tr>
+
+            </thead>
+            <tbody>
+                {% for contacto in  contactos %}
+                <tr>
+                  <td>{{contacto.0}}</td>
+                  <td>{{contacto.1}}</td>
+
+                </tr>
+                {%endfor%}
+            </tbody>
+
+        </table>
+
+      </div>
+
+      </div>
+
+
+      <div class="col-md-7">
+        <h1 class="text-center text-success">Grafica de Barras</h1>
+        <div id="graph1"></div>
+
+        <script type="text/javascript">
+
+        Morris.Bar({
+            element: 'graph1',
+            data: [
+              {x: 'Belgium', y: 1},
+              {x: 'Demark', y: 1},
+              {x: 'Ireland', y: 1},
+              {x: 'Lebanon', y: 1},
+              {x: 'Luxembourg', y: 1},
+              {x: 'Malta', y: 1},
+              {x: 'Oman', y: 1},
+              {x: 'Switzerland', y: 1},
+              {x: 'England', y: 2},
+              {x: 'Portugal', y: 2},
+              {x: 'Tanzania', y: 2},
+              {x: 'United Arab Emirates', y: 2},
+              {x: 'Argentina', y: 3},
+              {x: 'Egypt', y: 3},
+              {x: 'Norway', y: 3},
+              {x: 'Austria', y: 4},
+              {x: 'Colombia', y: 5},
+              {x: 'Germany', y: 5},
+              {x: 'Netherlands', y: 6},
+              {x: 'Australia', y: 9},
+              {x: 'Brasil', y: 9},
+              {x: 'Japan', y: 9},
+              {x: 'Canada', y: 11},
+              {x: 'Saudi Arabia', y: 11},
+              {x: 'Kazajistán', y: 12},
+              {x: 'Turkey', y: 12},
+              {x: 'Republic of Korea', y: 13},
+              {x: 'Indonesia', y: 15},
+              {x: 'Iran', y: 26},
+              {x: 'México', y: 30},
+              {x: 'Singapore', y: 31},
+              {x: 'United Kingdom', y: 42},
+              {x: 'India', y: 57},
+              {x: 'Italy', y: 81},
+              {x: 'Spain', y: 120},
+              {x: 'France', y: 168},
+              {x: 'United States', y: 273},
+              {x: 'China', y: 491}
+
+            ],
+            xkey: 'x',
+            ykeys: ['y'],
+            labels: ['Cantidad'],
+            resize:true,
+
+            barColors: function (row, series, type) {
+                if (type === 'bar') {
+                  var red = Math.ceil(255 * row.y / this.ymax);
+                  return 'rgb(' + red + ',0,0)';
+                }
+                else {
+                  return '#000';
+                }
+              }
+
+          });
+
+        </script>
+
+        </div>
+      </div>
+
+{% endblock %}

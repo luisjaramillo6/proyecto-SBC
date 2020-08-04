@@ -1,0 +1,73 @@
+{% extends 'layaout.html' %}
+{% block body %}
+
+
+
+<div class="row">
+  <div class="col-xs-6">
+
+
+    {% with messages= get_flashed_messages() %}
+    {% if messages %}
+    {% for men in messages %}
+
+
+    <div class="alert alert-success alert-dismissible fade show" role="alert">
+      <p>{{messages}}</p>
+      <button type="button" class="close" data-dismiss="alert" aria-label="Close">
+        <span aria-hidden="true">&times;</span>
+      </button>
+    </div>
+
+      {% endfor %}
+      {%endif%}
+      {% endwith%}
+
+      <div class="card card-body">
+        <table class="table table-striped table-bordered bg-white">
+            <thead>
+                <tr>
+                    <td>nombreTipoAfiliacion</td>
+                    <td>cantidad</td>
+                </tr>
+
+            </thead>
+            <tbody>
+                {% for contacto in  contactos %}
+                <tr>
+                  <td>{{contacto.0}}</td>
+                  <td>{{contacto.1}}</td>
+
+                </tr>
+                {%endfor%}
+            </tbody>
+
+        </table>
+
+      </div>
+
+      </div>
+
+
+      <div class="col-md-7">
+        <h1 class="text-center text-success">Grafica de Dona</h1>
+        <div id="graph2"></div>
+
+        <script type="text/javascript">
+        Morris.Donut({
+          element: 'graph2',
+          data: [
+            {value: 61.82, label: 'University', formatted: 'total 61.83%' },
+            {value: 32.10, label: 'Laboratory', formatted: 'total 32.10%' },
+            {value: 6.07, label: 'Institute', formatted: 'total 6.07%' },
+
+          ],
+          formatter: function (x, data) { return data.formatted; }
+        });
+
+        </script>
+
+        </div>
+      </div>
+
+{% endblock %}

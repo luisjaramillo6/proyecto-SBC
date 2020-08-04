@@ -1,0 +1,402 @@
+{
+  "head" : {
+    "vars" : [
+      "nombrePais",
+      "Autores"
+    ]
+  },
+  "results" : {
+    "bindings" : [
+      {
+        "Autores" : {
+          "type" : "literal",
+          "value" : "E. Gogniat,M. Campos,G. Tusman"
+        },
+        "nombrePais" : {
+          "type" : "literal",
+          "value" : "Argentina"
+        }
+      },
+      {
+        "Autores" : {
+          "type" : "literal",
+          "value" : "Andrew M. Lew,Michael J. Bourke,Nicholas G. Burgess,Neal Shahidi,Sunil Gupta,Nicole Gilroy,Lidia Morawska,Santosh K. Tadakamadla,Cristobal G. dos Remedios"
+        },
+        "nombrePais" : {
+          "type" : "literal",
+          "value" : "Australia"
+        }
+      },
+      {
+        "Autores" : {
+          "type" : "literal",
+          "value" : "Walter Reinisch ,Benedikt Heidinger,Helmut Prosch,Sadegh Niazi"
+        },
+        "nombrePais" : {
+          "type" : "literal",
+          "value" : "Austria"
+        }
+      },
+      {
+        "Autores" : {
+          "type" : "literal",
+          "value" : "Jean-Francois Rahier"
+        },
+        "nombrePais" : {
+          "type" : "literal",
+          "value" : "Belgium"
+        }
+      },
+      {
+        "Autores" : {
+          "type" : "literal",
+          "value" : "E. Cunha-Neto,D.S. Rosa,Fábio A.M. Cássaro,Luiz F. Pires,Flavio Steinwurz ,Bruno Siciliano,Guilherme Dantas,Cleyton M. da Silva,Graciela Arbilla"
+        },
+        "nombrePais" : {
+          "type" : "literal",
+          "value" : "Brasil"
+        }
+      },
+      {
+        "Autores" : {
+          "type" : "literal",
+          "value" : "Gilaad G. Kaplan,Clyde T. Matava,Blake C. Papsin,Nikolaus E. Wolter,Evan J. Propst,Ben A. Smith,Bruce G. Pollock,Benoit H. Mulsant,Eric E. Brown ,Sanjeev Kumar ,Tarek K. Rajji "
+        },
+        "nombrePais" : {
+          "type" : "literal",
+          "value" : "Canada"
+        }
+      },
+      {
+        "Autores" : {
+          "type" : "literal",
+          "value" : "Keyao Zhou,Tingbao Zhang,Xiaohui Wu,Kui Liu,Zhiqiang Li,Wei Wang,Jincao Chen,Zhongwei Xiong,Can Xin,Xixi Yan,Yuankun Cai,Shuchang Zhou ,Bo Zhao ,Liu Huang ,Shu Peng,Xiangning Fu ,Ni Zhang ,Lu Zhang,Maosheng Yao,Pan Luo,Dong Liu,Juan Li,Cuifang Fa,Jie Yan,Qiumei Pang ,Wencong He ,Di Lei ,Yuan Qiao ,Juan Juan,Huixia Yang ,Xiaoling Hu ,Jun Cui,Jianxin Ma,Chuanshun Xie,Hai-Bin Luo,Yi-You Huang,Zhe Li,Lian Zhou,Yunlong Cao,X. Sunney Xie,Xiaoran Chai,Runsheng He,Wenjie Sun,Xu Zhang,Yinghui Zheng,Chenyang Geng,Kwok-Yung ,Jian-Piao Cai ,Hoi-Wah Tsoi ,Agnes Yim-Fong Fung ,Xi Zhang ,Huiping Shuai,Terrence Tsz-Tai Yuen,Hin Chu,Jasper Fuk-Woo Chan,Jessica Oi-Ling Tsang ,Cyril Chik-Yan Yip ,Bingjie Hu ,Yixin Wang ,Shuofeng Yuan,Kenn Ka-Heng Chik ,Dong Yang ,Yuxin Hou ,Yue Chai ,Xiner Huang ,Bin Su,Xianghua Guo,Yanjun Wang,XiaoLi Hua,Ming Gu,Fang Zeng,Huiping Hu,Tao Zhou,Yu Zhang,Chen Shi,Xue-Ning Yang,Chao Zhang,Rui Fu,Yi-Long Wu,Wen-Zhao Zhong,Qing Zhou,Jin-Ji Yang,Ji-Sheng Li,Lin Yang,Gen Lin,Zigui Chen\n,Christopher K.C. ,Lu Huang,Hesong Zeng,Liming Xia,Peijun Zhao ,Dazhong Tang,Tong Zhu,Chenao Zhan,Jie Hu,Eugene Y.K. Tso,Veronica Chan\n,Rahul Kumar,Li Yang,Qianwen Zhao,Qian Chu,Xian-Jun Fu,Feng-Cong Zhang,Zhen-Yang Li,Yan-Gang Zhao,Xue-Bo Li,Zhen-Guo Wang,Qing-Hua Cui,Yang Li,Xiao-Long Wang,Xin-Xin Shao,Xiu-Xue Li,Xia Ren,Xin-Hua Jia,Liang Zhong,Xiaohong Peng,Shanglong Yao,Jiapeng Huang ,Xiangdong Chen ,Yinqiao Dong,Chenkai Zhao,Xiaoyang Li,Wei Liu,Miao He,Peng Shi,Shuhua Xi,Yinlian Wu,Jiaofeng Huang,Xiang-Bin Xing,Min-Hu Chen,Ren Mao,Nian-Di Tan,Yun Qiu,Olivier Voisin,Philippe Azria,Marie-Françoise Borie,Erwan le Lorc’h,Annabelle Mahé,Jean-Christophe Guillerm,Sidonie Hubert,Elodie Ménage,Huanchang Yan,Shixing Tang,Lin Wu,Li Li,Changqing Xu,Wanbo Zhu,Shiyuan Fang,Jiazhao Yang,Huifang Xian,Yanhui Xu,Zhanghua Chen,Yunlei Deng,Fan Bai,Zhiyuan Weng,Changxing Ou,Qingling Zhang,Jing Sun,Xinyuan Li,W.C.H. Chao,Bei Xiong,Shuai Liu,Li Wang,Xiaoyan Liu,Yuxin Shi,Weihan Zhang,Shenyang Li,Fengjun Liu,Nannan Shi,Fengxiang Song,Xiong Chen,Jin Zhao,Haiming Jiang,Jicheng Huang,Yongxia Shi,Weiqi Pan,Runfeng Li,Chufang Li,Yuqi Xie,Zhoulang Wang,Qinhai Ma,Jun Dai,Kui Zheng,Xiaobo Li,Zifeng Yang,Lixia Chen,Mingxue Li\n,Yang Xu,Yang Liu,Peng Zhang,Wu Zhong,Qiqi Wang,Nan Chen,Fen Zhang,Yun Kit Yeoh,Hui Zhan,Yating Wan,Arthur Chung,Chun Peng Cheung,Tao Zuo,Siew C. Ng,Hua Li,Mengzhu Zheng,Le Qin,Zenghui Cheng,Fuhua Yan,Wenjie Yang,Qiqi Cao,Shuai Zhao,Ken Ling,Hong Yan,Yue Zhong,Tao Song,Jinsong Xiao,iaoning Li,Shuai Fu,Xiaobin Zhu,Xiao Xiao,Meng Meng,Xiang Chen\n,Guangtong Deng\n,Furong Zeng,Ying Guo,Mingzhu Yin,Yugang Hu,Zhenmin Fu,Hongyun Gong,Hui Wang,Dingyi Zhou,Jinghui Pan,Zheming Liu,Lulu Chen,Ping Li,Qibin Song,Qian Min,Xiangpan Li,Fan Cheng,Tangpeng Xu,Shasha Ruan,Liang Xiao\n,Grace C.Y. Lui,Amy Y.L. Li,Bin Liu,Xingzhou Li\n,Yali Wang,Yingxia Liu,Ling Peng,Minghui Yang,Mengli Cao,Haixia Zheng,Weibo Wu,Rongrong Zou,Delin Li,Zhixiang Xu,Fuxiang Wang,Guobao Li,Yanjie Li,Li Xing,Yang Yang,Chenguang Shen,Jinxiu Li,Jing Yuan,Jinli We,Ya Zheng,Jing Yang,Xi Gou,Yongning Zhou,Yuping Wang,Rui Ji,Qinghong Guo,Zhaofeng Chen,Ke Pu,Min Jiang,Yinghua Wei,Yiguo Zhou,Yi-fan Lin,Qibin Duan,Huachun Zou,Bingyi Wang,Tanwei Yuan,Peiyang Li,Leiwen Fu,Yaoting Sun,Xiao Yi,Weigang Ge,Rui Sun,Liujia Qian,Fangfei Zhang,Hao Chen,Shuang Liang,Wei Liu,Tiannan Guo,Dan Xu ,Jing Liao ,Huixia Yang,Yuanzhen Zhang,Xuechen Yu,Jiafu Li,Huijun Chen,Juanjuan Guo,Xin Wang,Ali P. Yunus,Fengyi Xiao ,Guoping Xiong ,Yuzhao Huang,Yinyi Shi,Wei Hou,Chen Wang,Chen Wang ,Chunyan Li,Ling Feng,Suqing Wang ,Yue-Lei Shen,Quan Liu,Rui Xiong,Su-Su Liu,Junli Fan,Chunliang Lei,Yongxi Zhang,Long Zhou,Yixiang Peng,Xiao Yang,Guan Yang,Yan-Xiao Wang,Hongling Wang,Qiu Zhao,Fan Wang,Haizhou Wang,You-Chun Wang,Wei-Jin Huang,Li Wei,Xiaoting Chen,Yunlong Ao,Yong Liu ,Yahua Hu,Nanshan Zhong,Wenhua Liang,Weijie Guan,Ling Sang,Mei Jiang,Yarong Song,Adam M. Spivak,Xiaoping Zhang,Xingyuan Xiao,Feng Pan,Honggang Li,Canrong Wu,Chengliang Xiong,Xingang Yao,Shuwen Liu,Shilin Chen,Lu Luo,Fan Luo,Yan Guo,Yong-Qiang Deng,Xing-Yao Huang,Na-Na Zhang,Xiao-Feng Li,Shi-Hui Sun,Qi Chen,Hong-Jing Gu,Lei Chen,Yaozong Gao,Chao Jiang,Pan Huang,Jianmin Wu,Yulin Zhao,Chungen Pan,Ashan Pan,Jianyi Dai,Sheng Quan,Chao Zhang,Zili Zhang,Chunxia Tian,Heng Fan,Haifeng Zhou,Yalan Dong,Weina Guo,Mingyue Li,Zhengyi Ni,Yu Hu,Yiping You,Keye Du,Haijun Wang,Lei Liu,Hongmei Li,Hong Sha,Shuangqi Yang,Shanshan Luo\r\n,Hefeng Huang,Hong Li,Lei Chen,Yanting Wu,Chen Zhang,Han Liu,Chenchi Duan,Cheng Li,Desheng Hu\r\n,Haojia Wang,Hui Zhang,Yumei Zhou,Hua Zhu,Wei Deng,Yanfeng Xu,Qi Lv,Linlin Bao,Prof Jin-Fu,Wen-Chao Gu,Fan Li,Tie-Feng Zhang,Ye-Chang Qian,Chun-Ling Du,Wei Ding,Xi-Wen Gao,Xiao-Lian Song,Hong Bao,Bei Ma,Yan-Hua Chai ,Hai-Wen Lu,Jia-Wei Yang,Zhaowei Yang,Nan Jia,Wanyi Fu,Jiaxing Xie,Ruchong Chen,Fengmin Huang,Lei Zhao,Xiao-Yan Jin ,Jie-Ping Pan,Xiangjuan Li,Cheng Wang,Junping Wang,Yi Guo,Yeping Wang,Xiufeng Li,Jing Li,Dong-Qing Wei,Jinghong Zhao,Shaobo Wang,Ting Zhang,Jingwen Jiang,Cheng Wang,Chunhua Pan,Daixi Li,Qing Dong,Zhongwei Huang,Jianping Huang,Qianqing Gu,Pengyue Du,Hongbin Liang,Wenkai Li,Xiong Wang,Wei Liu ,Xionglin Fan ,Wengang Li ,Caizheng Yu,Qing Lei,Yiyue Ge,Xiaoyan Zeng,Ying Chi,Liguo Zhu,Baoli Zhu,Lunbiao Cui,Bin Wu,Xiaojuan Zhu,Fengjuan Shi,Tao Wu,Weiyong Liu,Xiaofeng Li,Yongqiang Deng,Xuefei Du,Jianxia Fan,Fengcai Zhu,Xiaoyong Li,Sha Yu,T. Szmuda,Hualin Xu,Ping Li,Liping Sun,Lining Sun,Yongbin Zhang,An Wang,Qinyu Zhu,Pei-Ju Qiu,Peng Wang,Xiao Jiang,Wu-Yi Zhou,Kitty S.C. Fung\n,Lowell Ling\n,Gavin Joynt\n,Rui Han"
+        },
+        "nombrePais" : {
+          "type" : "literal",
+          "value" : "China"
+        }
+      },
+      {
+        "Autores" : {
+          "type" : "literal",
+          "value" : "Arley Gómez-López,Edgar Garavito,Giovanni Montealegre-Gómez,Rafael Parra-Medina,Adriana Rojas-Villarraga"
+        },
+        "nombrePais" : {
+          "type" : "literal",
+          "value" : "Colombia"
+        }
+      },
+      {
+        "Autores" : {
+          "type" : "literal",
+          "value" : "Dario Caro"
+        },
+        "nombrePais" : {
+          "type" : "literal",
+          "value" : "Denmark"
+        }
+      },
+      {
+        "Autores" : {
+          "type" : "literal",
+          "value" : "Mohamed Bahlol,Ezio Bonanomi,Abdo A. Elfiky"
+        },
+        "nombrePais" : {
+          "type" : "literal",
+          "value" : "Egypt"
+        }
+      },
+      {
+        "Autores" : {
+          "type" : "literal",
+          "value" : "Charles Dennis,Eleonora Pantano"
+        },
+        "nombrePais" : {
+          "type" : "literal",
+          "value" : "England"
+        }
+      },
+      {
+        "Autores" : {
+          "type" : "literal",
+          "value" : "D. Touitou,M. David,A.-H. Moncany,Bruno Fontaine,Elodie Schaeffer,Jean Cotte,Erwan D’Aranda,Eric Meaudre,Laurent Muller,P.-M. Llorca,P. Thomas,Nicolas Libert,Pierre Pasquier,Nicolas Donat,Thomas Leclerc,R. Bocher,M.-R. Moro,D. Gourion,A. Chevance,M. Leboyer,R. Gaillard,Alexis Donat,V. Laprévote,A. Benyamina,P. Fossati,M. Masson,Pierre-François Perrigault,V. Peyronnet,J. Sibiude,O. Picone,L. Mandelbrot,H. Javelot,L. Weiner,P. Deruelle,C. Huissoud,X. Lescure,Y. Yazpandanah,N. Hoertel,E. Leaune,S. Laporte,J.-L. Montastruc,M. Molimard,Frank M. Ruemmele ,C. Galant,L. Crevier-Buchman,S. Crestani,B. Amy de la Bretèque,A. Mattei,A. Lagier,A. Julien-Laferrière,S. Hans,A. Giovanni,V. Woisard,D. Robert,F. Marmouset,C. Lobryeau,Benoît Veber,Luigi Titomanlio,Fabrice Michel,D. Cohen,D. Goéré,M. Luong-Nguyen,H. Hermand,A. Sauvanet,N. Cabrit,C. Hobeika,M. Roustit,R. Guilhaumou,Antoine Lafont,Wulfran Bougouin,Xavier Jouven,David Perrot,Benoit Frattini,Clément Derkenne,Ardalan Sharifzadehgan,Victor Waldmann,rankie Beganton,Kumar Narayanan,Eloi Marijon,Nicole Karam,Daniel Jost,M.-D. Drici,Olivier Peyrony,Carole Marbeuf-Gueye,Mathieu Tourdjman ,Sami Ellouze ,Clémentine Rivière,Khalil Kheniss,Vy Truong,Marion Giroud,Arben Elezi,Alessandra Principe,Léa Legay,Marie Simonetta,Pierre Taboulet ,Carl Ogereau ,Jean-Paul Fontaine ,A. Brouquet,S. Abdalla,M. Makeieff,N. Morel,P. Boudard,A. Coste,R. Nicollas,S. Schmerber,E. Lescanne,E. Bequignon,Diane Descamps,Yazdan Yazdanpanah,Quentin Le Hingrat,Alexandra Mailles,France Mentre,Francois-Xavier Lescur,Lila Bouadma,Thao Pham,Philippe Dieudé,Philippe Goupille,Christian Roux,Thierry Schaeverbeke,Daniel Wendling,Pascal Claudepierre,Françoise Debiais,J.-B. Morvan,N. Fakhry,Thierry Thomas,P. Schultz,T. Fovet,V. Couloigner,C. Lacroix,T. Scouflaire,M. Eck,É. Maeker,I. Goidin,B. Maeker-Poquet,I. Atallah,S. Bartier,S. Vergez,S. Morinière,E. Babin,Vincent Enouf,Nadhira Houhou-Fidouh,Martine Valette,Xavier Duval,Maude Bouscambert-Duchamp,Flora Donati,Alexandre Gaymard,Sylvie Behillil,B. Barry,Jean-Christophe Lucet,Duc Nguyen,Marion Parisey,Christophe Richez,René-Marc Flipo,Francis Berenbaum,Alain Cantagrel,D. Luton,J.-C. Lucet,I. Nisand,C. Vayssiére,T. Lefebvre,M. Lacambre,P. Horrach,P. Giravalli,A. Guillard,D. Dandelot,E. Bécache,Paul-Henri Wicky,C. Lancelevée"
+        },
+        "nombrePais" : {
+          "type" : "literal",
+          "value" : "France"
+        }
+      },
+      {
+        "Autores" : {
+          "type" : "literal",
+          "value" : "Lars E. French,M.T. Syed,A. Singh,S. Ali,C. Özdemir"
+        },
+        "nombrePais" : {
+          "type" : "literal",
+          "value" : "Germany"
+        }
+      },
+      {
+        "Autores" : {
+          "type" : "literal",
+          "value" : "Vikas Singla,Shivam Khare,Abhishyant Srivastava,Ashish Kumar,Anil Arora,Praveen Sharma,Shrihari Anil Anikhindi,Naresh Bansal,Neeraj Gupta,Awadhesh Kumar,Ritu Singh,Anoop Misra,Awadhesh Kumar Singh,Aditya Kumar Singh,Bansidhar Prasad Rukhaiyyar,Buddhadeo Mahato,Yerra Shankar Rao,Akriti Singh,Altamash Shaikh,Arvind Chaturvedi,Ankush Jajodia,Mahboobeh Gharib Laki,Behnaz Molaei,Atousa Dabiri Oskoei,Jean-Jacques Mourad,Anoop Misra,Ritesh Gupta,BL Sherwal,Fahimeh Ghotbizadeh,Sedigheh Hantoushzadeh,Alireza A. Shamshirsaz,Zahra Soleimani,Mahsa Naemi,Ashraf Aleyasin,Rakesh Tuli,Shikhar Tuli,Shreshth Tuli,Deepak K,Gopi C,J.C. Passey,Anupam Khatua,Sayani Adak,T.K. Kar,Manotosh Mandal,Soovoojeet Jana,Swapan Kumar Nandi,Ritesh Gupta,Anoop Misra,Yogesh Suresh Ahire,Deelip Vishram Derle,Rajendra Sudhakar Bhambar,Deepak Devidas Sonawane,Apoorva Prashant Hiray,Ashish Yashwantrao Pawar,Binay Kumar Mishra,Ajit Kumar Keshri,Bimal Kumar Mishra"
+        },
+        "nombrePais" : {
+          "type" : "literal",
+          "value" : "India"
+        }
+      },
+      {
+        "Autores" : {
+          "type" : "literal",
+          "value" : "Arief Wibowo,Makhyan Jibril ,Anwar Santoso,Ian Huang ,Raymond Pranata,Budhi Antariksa ,Wiryawan Manusubroto,Adiguno Suryo Wicaksono,Daniel Agriva Tamba,Paulus Sudiharto,Handoyo Pramusinto,Rachmat Andi Hartanto,Endro Basuki,Alice Tamara,Dicky L. Tahapary"
+        },
+        "nombrePais" : {
+          "type" : "literal",
+          "value" : "Indonesia"
+        }
+      },
+      {
+        "Autores" : {
+          "type" : "literal",
+          "value" : "Sergio Barrientos Trigo,Marta Lima Serrano,Bárbara Badanta Romero,Ana Mª Porcel Gálvez,Masud Yunesian,Mohammad Sadegh Hassanvand,Khosro Sadeghniiat,Ramin Nabizadeh,Sasan Faridi,Kazem Naddafi,Fatemeh Momeniha,Adel Mokamel,Talat MokhtariAzad,Nazanin Zahra Shafiei Jandaghi,Kaveh Sadeghi,Jila Yavarian,Mahdi Aghili,Fatemeh Jafari,Mojtaba Vand Rajabpoor,Mansour Shamsipour,Roya Faraji Darkhaneh,Soudabeh Kazemi Aski,Roghaye Ahangari,Parisa Pirozan,Mohammadreza Salehi,Parichehr Pooransari"
+        },
+        "nombrePais" : {
+          "type" : "literal",
+          "value" : "Iran"
+        }
+      },
+      {
+        "Autores" : {
+          "type" : "literal",
+          "value" : "Martin Fitzgerald"
+        },
+        "nombrePais" : {
+          "type" : "literal",
+          "value" : "Ireland"
+        }
+      },
+      {
+        "Autores" : {
+          "type" : "literal",
+          "value" : "Elena Azzolini ,Elisa Chiara Ferrara ,Gaia Pellegatta ,Piera Alessia Galtieri ,Milena Di Leo ,Alessandro Fugazza ,Silvia Carrara ,Andrea Anderloni ,Matteo Colombo,Roberta Maselli,Alessandro Repici,Marco Spadaccini ,Roberto Gabbiadini,Danilo Buonsenso,Silvia Bressan,Liviana Da Dalt,Maria Pia Sormani,Stefania Cossi,Ruggero Capra,Nicola De Rossi,Flavia Mattioli,Edoardo Vespa,Maurizio Cecconi,Nicola Pugliese,Paolo Dario Omodei,Tommaso Lorenzo Parigi,Enrico Brunetta,Paoletta Preatoni,Silvio Danese,Stefanos Bonovas,Alberto Malesci,Antonio Voza,Ana Lleo,Daniele Piovani,Alessio Aghemo,Cristina Scarpazza,Fabrizio Zullo,Gabriele Saccon,Daniele Scarpi,Gabriele Pizzi,Niccolo’ Parri,Giuseppe Romanelli,Maurizio Ruggeri,Lorenzo D'Antiga,Lucio Verdoni,Angelo Mazza,Annalisa Gervasoni,Laura Martelli,Matteo Ciuffreda,Marina Macchiagodena,Marco Pagliai,Piero Procacci,Daniele Di Mascio,Enrico Pasut,Luca Quartuccio,Salvatore De Vita,Carlo Tascini,Francesca Valent,Luca Pastorelli,Franco Scaldaferri,Nicola Decaro,Vito Martella,Canio Buonavoglia,Giovanni Marasco,Olga Maria Nardone,Marcello Maida,Ivo Boskoski,Margarida Goulart,Yuri Bruinen de Bruin,Anne-Sophie Lequarre,Josephine McCourt,Mario Plebani,Giuseppe Lippi,Maryam Zare Jeddi,Claudio Colosio,Paola Ricciardi,Marco Carnevale Miino,Maria Cristina Collivignarelli,Alessandro Abbà,Giorgio Bertanza,Roberta Pedrazzani"
+        },
+        "nombrePais" : {
+          "type" : "literal",
+          "value" : "Italy"
+        }
+      },
+      {
+        "Autores" : {
+          "type" : "literal",
+          "value" : "Yasuaki Hijioka,Yoshifumi Masago,Yuichiro Shindo\n,Katsunao Suzuki\n,Yasushi Fujimoto\n,Takanori Yamamoto\n,Mariko Hiramatsu,Naoki Nishio,Masayuki Ozaki\n"
+        },
+        "nombrePais" : {
+          "type" : "literal",
+          "value" : "Japan"
+        }
+      },
+      {
+        "Autores" : {
+          "type" : "literal",
+          "value" : "Elena V. Wachtel,Bgee Kunjumon,Samantha Alessi,Pradeep V. Mally,Bauyrzhan Bukenov,Bulat Kenessov,Pavel Plotitsyn,Ferhat Karaca,Sean M. Bailey,Nassiba Baimatova,Olga P. Ibragimova,Aiymgul Kerimray"
+        },
+        "nombrePais" : {
+          "type" : "literal",
+          "value" : "Kazajistán"
+        }
+      },
+      {
+        "Autores" : {
+          "type" : "literal",
+          "value" : "Yale A. Fillingham"
+        },
+        "nombrePais" : {
+          "type" : "literal",
+          "value" : "Lebanon"
+        }
+      },
+      {
+        "Autores" : {
+          "type" : "literal",
+          "value" : "Benedetto Rugani"
+        },
+        "nombrePais" : {
+          "type" : "literal",
+          "value" : "Luxembourg"
+        }
+      },
+      {
+        "Autores" : {
+          "type" : "literal",
+          "value" : "Ruth Farrugia"
+        },
+        "nombrePais" : {
+          "type" : "literal",
+          "value" : "Malta"
+        }
+      },
+      {
+        "Autores" : {
+          "type" : "literal",
+          "value" : "Elizabeth Lagunes Lara,María Antonieta Solís-González,Antonio Ramos-de-la-Medina,Marisol Manríquez-Reyes,Laura Martínez-Pérez-Maldonado,Jose María Remes-Troche,J.A. Velarde-Ruiz Velasco,E.S. García-Jiménez,J.M. Remes-Troche,C. Hurtado-Salazar,J.K. Yamamoto-Furusho,J.L. de León-Rendón,M. Peláez-Luna,L.F. Uscanga,B. Pérez-González,A.A. Solis-Ortega,A. Campos-Murguía,X. León-Lara,J. Ruiz-Manriquez,Fausto Rojas Durán,Gonzalo Emiliano Aranda Abreu,María Elena Hernández Aguilar\n,Deissy Herrera Covarrubias,Mario García-Carrasco,Claudia Mendoza-Pinto,Pamela Munguía Realpozo,Socorro Méndez-Martínez,O. Torrealba-Rodriguez,A.L. Hernández-Javier,R.A. Conde-Gutiérrez"
+        },
+        "nombrePais" : {
+          "type" : "literal",
+          "value" : "México"
+        }
+      },
+      {
+        "Autores" : {
+          "type" : "literal",
+          "value" : "R.M. Marijnissen ,P. Naarding ,Anuradha Tomar,R.C. Oude Voshaar ,Rianne Oostenbrink,Qian Tao"
+        },
+        "nombrePais" : {
+          "type" : "literal",
+          "value" : "Netherlands"
+        }
+      },
+      {
+        "Autores" : {
+          "type" : "literal",
+          "value" : "Irene Braithwaite ,Richard B. Gearry"
+        },
+        "nombrePais" : {
+          "type" : "literal",
+          "value" : "New Zealand"
+        }
+      },
+      {
+        "Autores" : {
+          "type" : "literal",
+          "value" : "Halfvarson Jonas,Lindstrøm Jonas Christoffer,Jens Vikse"
+        },
+        "nombrePais" : {
+          "type" : "literal",
+          "value" : "Norway"
+        }
+      },
+      {
+        "Autores" : {
+          "type" : "literal",
+          "value" : "Dinesh Kumar Saini"
+        },
+        "nombrePais" : {
+          "type" : "literal",
+          "value" : "Oman"
+        }
+      },
+      {
+        "Autores" : {
+          "type" : "literal",
+          "value" : "Faïçal Ndaïrou,Delfim F.M. Torres"
+        },
+        "nombrePais" : {
+          "type" : "literal",
+          "value" : "Portugal "
+        }
+      },
+      {
+        "Autores" : {
+          "type" : "literal",
+          "value" : "Myoung-don Oh,Gi-Chan Han,Chang Kyung Kang,Nam-Joong Kim,Kyoung-Ho Song,Wan Beom Park,Pyoeng Gyun Choe,Eu Suk Kim,Hang-Rae Kim,Hong Bin\nKim,Hyun Mu\nShin,Gwanghun Kim,Minji Kim"
+        },
+        "nombrePais" : {
+          "type" : "literal",
+          "value" : "Republic of Korea"
+        }
+      },
+      {
+        "Autores" : {
+          "type" : "literal",
+          "value" : "Junaid Kashir,Ahmed Yaqinuddin,Omar M.L. Alharbi,Imran Ali,Somayah A.B. Al mutahar,Nouf I. Odabi,Amal A. Daghriri,Khadijah A. Turkistani,Mir F.A. Quadri,Mohammed A. Jafer,Ahmed Shaher Alqahtani"
+        },
+        "nombrePais" : {
+          "type" : "literal",
+          "value" : "Saudi Arabia"
+        }
+      },
+      {
+        "Autores" : {
+          "type" : "literal",
+          "value" : "U. Rajendra Acharya,Michael L.C. Wang,Shaun Ho,Swee Peng Yap,Jeffrey K.L. Tuan,Kiattisa Sommat,Mahesh Choolani,Arijit Biswas,Sarah Li,Li Min Lim,Mei Xian Karen Lim,Jing Lin Jeslyn ,Pradip Dashraath,Lin Lin Su,Citra Mattar,Yinxiaohe Sun,Haoyang Sun,Jue Tao Lim,Clarence Tam,Borame L Dickens,Alex R Cook,Minah Park,Joel R Koo,Bok Ai Choo,Francis Ho,Cheng Nang Leong,Timothy Cheo,Jeremy Tey,Uei Pua,Lawrence Han Hwee Quek,Glenn Wei Leong Tan"
+        },
+        "nombrePais" : {
+          "type" : "literal",
+          "value" : "Singapore"
+        }
+      },
+      {
+        "Autores" : {
+          "type" : "literal",
+          "value" : "R. González de Castro,Josep Mª Garcia-Alamino,G. Aguilar,R. Adalia Bartolomé,E. Samso,Iván Area,E. Maseda,A. Montero Feijoo,A. Suárez de la Rica,Chih-Yuan Hsu,J.I. Gómez-Herreras,Samuel M Rubinstein,Yu Shyr,Cristina Díaz Periánez,Manuel López Cano,Victor Rodrigues Gonçalves,Judit Saludes Serra,Daniel Rosselló-Jiménez,José Antonio Pereira,J.C. Romero-Fábrega,M. Rivero Rodríguez,I. Rego-García,C. Muñoz Martínez,A. Mínguez-Castellanos,M.D. Fernández Pérez,J.A. Ruiz Giménez,F. Escamilla-Sevilla,J.M. Barrios-López,Celso Arango,Víctor Pérez,M. Varela Durán,G. Tamayo Medel,F. Ramasco Rueda,J. Pereira,C. García Palenciano,José Luis Cabriada,Iago Rodríguez-Lago,Ainara Elorza,Olga Merino,Jone Ortiz de Zárate,Ángel Luis Guerrero-Peral,David García-Azorín,Diego López-Otero,Sandra Santos-Martinez,Ignacio J. Amat-Santos,María Velayos,Antonio Jesús Muñoz-Serrano,Karla Estefanía-Fernández,Ma Carmen Sarmiento Caldas,Lucas Moratilla Lapeña,Manuel López-Santamaría,Juan Carlos López-Gutiérrez,Weifeng Hu,Santiago Mintegi,Patricia Ramírez de la Piscina,Luis Nombela-Franco,Alba López-Bravo,Roberto Belvís,Yolanda Martín-Vaquero,Carmen González-Oria,Azucena González-Sanz,Germán Latorre,Beatriz Muñoz-Martín,Sonia Santos-Lasaosa,Miguel Rodríguez Barranco,Pilar Navarro Pérez,José Juan Jiménez Moleón,Maria-José Sánchez,Dafina Petrova,Elena Salamanca-Fernández,José María Balibrea,Salvador Morales-Conde,Luis Tallón-Aguilar,Felipe Pareja-Ciuró,María Gero,Rocio Amezaga,Ainhoa Serrano,Manuel Quintana,Aurelio Gómez-Luque,Francisco Hidalgo,Dr Proyecto Autopsias,Concepción Cassinello,Pilar Sierra,Raquel Ferrandis,Francisco José Tarazona-Santabalbina,Carlos Yánez-Benítez,Sergio García-Blas,Clara Bonanad,David Costa-Navarro,José Ceballos-Esparragón,Rocío González-Ferreiro,Juan V. Llau,Soledad Montón-Condón,Ander Regueiro,Salvador Navarro-Soto,Víctor A. Jiménez-Diaz,Fernando Turégano-Fuentes,María Dolores Pérez-Díaz,José María Jover-Navalón,Antonio Jesús González-Sánchez,José Manuel Aranda-Narváez,Erika Muñoz-García,Raquel Del Valle,Enrique Gutiérrez-Ibanes,Juan Sanchis Forés,Manuel Martínez-Sellés,Ana Ayesta,Pablo Díez-Villanueva,Dolores Merino-Navarro,Juan J. Nieto,Gonzalo Martín-Martín,Ignacio Rey-Simó,Gonzalo Tamayo-Medel,Alexandre Hyafil,David Moriña,Eduard Vieta,Pilar Marcos,Albert Ariza-Solé,Francesc Formiga,María Teresa Vidán-Austiz"
+        },
+        "nombrePais" : {
+          "type" : "literal",
+          "value" : "Spain"
+        }
+      },
+      {
+        "Autores" : {
+          "type" : "literal",
+          "value" : "Lukas Ebner"
+        },
+        "nombrePais" : {
+          "type" : "literal",
+          "value" : "Switzerland"
+        }
+      },
+      {
+        "Autores" : {
+          "type" : "literal",
+          "value" : "Peter Risha,Christina Makungu"
+        },
+        "nombrePais" : {
+          "type" : "literal",
+          "value" : "Tanzania"
+        }
+      },
+      {
+        "Autores" : {
+          "type" : "literal",
+          "value" : "Burak Kocak,Emre Arpali,Berna Yelken,Munci Kalayoglu,Aydin Turkmen,Suda Tekin,Mehmet Kanbay,Muhammed Talo,Eylul Azra Yildirim,Ulas Baran Baloglu\r\n,Ozal Yildirim\r\n,Trauma care"
+        },
+        "nombrePais" : {
+          "type" : "literal",
+          "value" : "Turkey"
+        }
+      },
+      {
+        "Autores" : {
+          "type" : "literal",
+          "value" : "Syeda Ayesha,Peter Clevestig"
+        },
+        "nombrePais" : {
+          "type" : "literal",
+          "value" : "United Arab Emirates"
+        }
+      },
+      {
+        "Autores" : {
+          "type" : "literal",
+          "value" : "Subrata Ghosh,Saman Nazarian,Bhurint Siripanthong,Daniele Muser,Leslie T. Cooper Jr.,C. Anwar A. Chahal,Mohammed Y. Khanji,Pasquale Santangeli,Rajat Deo,Rebecca Susan Dewey,Damian Roland,Prashant Kumar,Kalla Rahul,Satsangi Jack,Nowak Jan Krzysztof,Ian Maconochie,Ruud G. Nijman,Sukhpal Singh Gill,Nicole Spieker,Susannah Woodd,Catherine Goodman,Timothy Powell-Jackson,Jessica J C King,Thomas A Pollak,Dominic Oliver,Edward Chesney,Paolo Fusar-Poli,Philip McGuire,Jonathan P Rogers,Glyn Lewis,Dagan Wells,Megan Leaver ,Elizabeth Thomas,Kate E. Stanley,Filippo Pigazzani,Akshay Patel,Simon Kendall,Sridhar Rathinam,Edward J. Caruana,Anthony S David,Michael S Zandi,Josep M. García Alamino"
+        },
+        "nombrePais" : {
+          "type" : "literal",
+          "value" : "United Kingdom"
+        }
+      },
+      {
+        "Autores" : {
+          "type" : "literal",
+          "value" : "Joyce C. Zhou,Thomas R. McCarty,Ahmad Najdat Bazarbashi,Kelly E. Hathorn,Walter W. Chan,Lin Shen,Christopher C. Thompson,Mary Rozga,Lisa Moloney,Feon Cheng,T. Hodge,L. Wang\n,S. Ciotlos,P. Lloyd,R. Carback,C.V. Herst,S. Burkholz,R. Rubsamen,Carol Mitchell,Walker D. Redd,Vera H. Rigolin,Patrick Craft,Kelsey Baran,Mark Kryskow,Ross Knowles,Alyssa Toia,Christian Galvez,Adam Bowling,Michael DiSiena,Peter Foster,Tiffany Cheung,James D. Lewis,Madhav Swaminathan,Michele Kissous-Hunt,James M. Peyton,Petros Grivas,Sanjay Shete,Toni K Choueiri,Nicole M Kuderer,James Lewis,Dhruvan Patel,Christine E. Seidman,Daniel S. Herman,Polakit Teekakirikul,Jonathan G. Seidman,Gilberto de Lima Lopes,Todd Wine,Christian R. Francom,Jeremy D. Prager,Aakash Desai,Chinmay\nTrivedi,Nabeel Khan,Yu-Xiao Yang,Tyler Morrissey,S. Massey,P.E. Harris,T. Brasel,Judy Hung,Yanning Wu,Theodore P. Abraham,Deepa Handu,Meryl S. Cohen,Michael L. Mai,Paul J. Thuluvat,Talan Zhang,Amol Agarwal,Nishal Ravindran,Chau To,Alan Chen,J. Martijn Bos,Michael J. Ackerman,Virginia B. Hebl,Peter A. Noseworthy,Paul A. Friedman,Steve R. Ommen,Frank V. Brozovich,Ann L. Oberg,Zhifu Sun,Luv R. Javia,Gi Soo Lee,Mark S. Volk,Dawei Xie,Bo Shen,Douglas K. Rex,Juping Du,Xiaojie Bi,Jiaqin Xu,Jun Li,Ying Zhang,Zebao He,Laura Felder ,Julia Burd ,Rebecca A.M. Pierce-William,Rasha Khoury ,Adi Hirshberg ,Angela Bianco ,Adina R. Kern-Goldberger ,Joanne L. Stone ,J. Sidney,A. Sette,Xian Zhang ,Jean-Frederic Colombel ,Ryan C. Ungaro,Fox E. Underwood ,Michael D. Kappelman ,Erica J. Brenner,Chelsea A. DeBolt ,Ashley S. Roman ,Christina A. Penfield ,Karina Avila ,Donald C. Hall Jr,Hai-Feng Ji,Kimberly Sureau,Deane Smith,Robert J. Cerfolio,Brian Mitzman,Zachary N. Kon,Stephanie H. Chang,Bruce H. Thiers,George J. Hruza,John Sidney,Yun Zhang,Richard H. Scheuermann,Bjoern Peters,Alessandro Sette,James M. Hotaling,Darshan P. Patel,Jingtao Guo,Qing Gong ,Wei Zhang,Dongchi Zhao,Lindy P. Fox,Andrew Lindsley ,Stephanie Ward MD,Amal Assa’ad ,Peter S. Bernstein ,Matthew J. Grosso,Matthew S. Austin,Ellen J. Scherl,Randy S. Longman,JRC Study Group,Dana J. Lukin,Anand Kumar,Reem Z. Sharaiha,Adolph J. Yates,Samaan Rafeq,Saketh Palasamudram Shekar,Nancy Amoroso,Ronald Goldenberg,Luis Angel,T Bottiglieri,N Desai,JM Lombardi,M Weller,C Bourgois,RA Lehman,Sourabh Verma,Rishi Lumba,Jennifer L. Lighter,Thomas Fitzpatrick,Kjersti Aagaard,Soroush Aalipour,Maxim D. Seferovic,Maher El Chaa,Keith King,Alvaro Galvez Lima,Aaron F. Pannone,Rebecca L. Steele,Kimberly Albero,Justin B. Mutter,Joseph P. Alukal,Drew A. Harris,Laurie R. Archbald-Pannone,Philip S. Li,Jules B. Lipoff,Misha Rosenbach,Carrie Kovarik,Junko Takeshita,Perica Davitkov,Shazia M. Siddique,Yngve Falck-Ytter,Joseph D. Feuerstein,Shahnaz Sultan,Osama Altayar,Hashem B. El-Serag,Kim Vanuytsel,Gregory J. Miller,Rhiannon B. Werder,Todd W. Dowrey,Taylor M. Matte,Anthony K. Yeung,Richard M. Giadone,Aditya Mithal,George J. Murphy,Kaveh Hajifathalian,Jeroen Vanderhoeven,Nena Barnhart,Stephen A. Mccartney,Alisa Kachikis ,Nicole M. Kretzer ,Anne Erickson ,Rebecca Resnick,Erica M. Lokken,Shani Delaney,Christopher D. Andry,Nancy S. Miller,Joseph K. Hwang,Jasmine Rah,Esther E. Freeman,Devon E. McMahon,Josh Courter ,KD Riew,V Boddapati,Sara E. Arian,Joseph K. Lim,Sang Hoon Kim,Michelle Tong,Disha Shah,David Schwarzbaum,Syed Hussain\n,Samson Ferm,Constantine Fisher,Tina Pakala,Michelle Tong,S McChrystal,Kamal Kant Sahu,Anu Anna George,Ajay Kumar Mishra,Amos Lal,Donna R Rivera,B. Joseph Elmunzer,Robin B. Mendelsohn,Christian G. Daughton,Vaishali Patel,Swati Pawa,Dimpy P Shah,Zachary L. Smith,Linda J. Saif,Rajesh N. Keswani,Christie L. Walker,Lora Kahn,Aaron S. Dumont,Mansour Mathkour,Joseph Keen,Tyler Scullen,Victoria Cooley,Vladimir M. Kushnir,Tyler M. Berzin,Joseph A. Dearani,Hartzell V. Schaff,Brandon Michael Henry,Stephen Y. Liang,Gaurav Aggarwal,Shawn Diamond MD,Gregory Rafijah,Amber Leis,Ranjan Gupta ,Alex Koyfman,Johnny Wong,Erik N. Zeegen,Adolph J. Yates,David S. Jevsevar,Jonathan B. Lundy,Erin L. Weber,Shadi Lalezari,Benjamin L. Gray,Brit Long,Stefanie Benoit,Summer Chavez,Shailendra Singh,Ahmad Khan,Joseph J. Maleszewski,Ines C. Lin"
+        },
+        "nombrePais" : {
+          "type" : "literal",
+          "value" : "United States"
+        }
+      }
+    ]
+  }
+}

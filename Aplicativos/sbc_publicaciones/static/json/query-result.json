@@ -1,0 +1,1342 @@
+{
+  "head" : {
+    "vars" : [
+      "uriArticulo",
+      "titulo"
+    ]
+  },
+  "results" : {
+    "bindings" : [
+      {
+        "uriArticulo" : {
+          "type" : "uri",
+          "value" : "http://utpl.edu.ec/lod/publishingCOVID/ontology/BibliographicResource/Article-2"
+        },
+        "titulo" : {
+          "type" : "literal",
+          "value" : "A Call to Arms: Emergency Hand and Upper-Extremity Operations During the COVID-19 Pandemic"
+        }
+      },
+      {
+        "uriArticulo" : {
+          "type" : "uri",
+          "value" : "http://utpl.edu.ec/lod/publishingCOVID/ontology/BibliographicResource/Article-13"
+        },
+        "titulo" : {
+          "type" : "literal",
+          "value" : "A model based study on the dynamics of COVID-19: Prediction and\ncontrol"
+        }
+      },
+      {
+        "uriArticulo" : {
+          "type" : "uri",
+          "value" : "http://utpl.edu.ec/lod/publishingCOVID/ontology/BibliographicResource/Article-24"
+        },
+        "titulo" : {
+          "type" : "literal",
+          "value" : "A novel IDEA: The impact of serial interval on a modified-Incidence Decay and\nExponential Adjustment (m-IDEA) model for projections of daily COVID-19 cases"
+        }
+      },
+      {
+        "uriArticulo" : {
+          "type" : "uri",
+          "value" : "http://utpl.edu.ec/lod/publishingCOVID/ontology/BibliographicResource/Article-31"
+        },
+        "titulo" : {
+          "type" : "literal",
+          "value" : "A search for medications to treat COVID-19 via in silico molecular docking models of the SARS-CoV-2 spike glycoprotein and 3CL protease"
+        }
+      },
+      {
+        "uriArticulo" : {
+          "type" : "uri",
+          "value" : "http://utpl.edu.ec/lod/publishingCOVID/ontology/BibliographicResource/Article-5"
+        },
+        "titulo" : {
+          "type" : "literal",
+          "value" : "ACUTE QT INTERVAL MODIFICATIONS DURING HYDROXYCHLOROQUINE-AZITHROMYCIN TREATMENT IN THE CONTEXT OF COVID-19 INFECTION"
+        }
+      },
+      {
+        "uriArticulo" : {
+          "type" : "uri",
+          "value" : "http://utpl.edu.ec/lod/publishingCOVID/ontology/BibliographicResource/Article-9"
+        },
+        "titulo" : {
+          "type" : "literal",
+          "value" : "AGA Institute Rapid Recommendations for Gastrointestinal Procedures During the COVID-19 Pandemic"
+        }
+      },
+      {
+        "uriArticulo" : {
+          "type" : "uri",
+          "value" : "http://utpl.edu.ec/lod/publishingCOVID/ontology/BibliographicResource/Article-33"
+        },
+        "titulo" : {
+          "type" : "literal",
+          "value" : "ASE Statement on the Reintroduction of Echocardiographic Services during the COVID-19 Pandemic"
+        }
+      },
+      {
+        "uriArticulo" : {
+          "type" : "uri",
+          "value" : "http://utpl.edu.ec/lod/publishingCOVID/ontology/BibliographicResource/Article-42"
+        },
+        "titulo" : {
+          "type" : "literal",
+          "value" : "ATENCION DE LA URGENCIA QUIRURGICA DURANTE LA\r\nPANDEMIA COVID-19. RECOMENDACIONES DE LA ASOCIACION\r\nESPAÑOLA DE CIRUJANOS"
+        }
+      },
+      {
+        "uriArticulo" : {
+          "type" : "uri",
+          "value" : "http://utpl.edu.ec/lod/publishingCOVID/ontology/BibliographicResource/Article-1"
+        },
+        "titulo" : {
+          "type" : "literal",
+          "value" : "Aberrant hyperactivation of cytotoxic T-cell as a potential determinant of COVID-19 severity"
+        }
+      },
+      {
+        "uriArticulo" : {
+          "type" : "uri",
+          "value" : "http://utpl.edu.ec/lod/publishingCOVID/ontology/BibliographicResource/Article-6"
+        },
+        "titulo" : {
+          "type" : "literal",
+          "value" : "Addressing a National Crisis: The Spine Hospital and Department's Response to the COVID-19 Pandemic in New York City"
+        }
+      },
+      {
+        "uriArticulo" : {
+          "type" : "uri",
+          "value" : "http://utpl.edu.ec/lod/publishingCOVID/ontology/BibliographicResource/Article-8"
+        },
+        "titulo" : {
+          "type" : "literal",
+          "value" : "After the COVID-19 Pandemic: Returning to Normalcy or Returning to a New Normal"
+        }
+      },
+      {
+        "uriArticulo" : {
+          "type" : "uri",
+          "value" : "http://utpl.edu.ec/lod/publishingCOVID/ontology/BibliographicResource/Article-11"
+        },
+        "titulo" : {
+          "type" : "literal",
+          "value" : "Alterations in Gut Microbiota of Patients With COVID-19 During Time of Hospitalization"
+        }
+      },
+      {
+        "uriArticulo" : {
+          "type" : "uri",
+          "value" : "http://utpl.edu.ec/lod/publishingCOVID/ontology/BibliographicResource/Article-12"
+        },
+        "titulo" : {
+          "type" : "literal",
+          "value" : "Amantadine as a drug to mitigate the effects of COVID-19"
+        }
+      },
+      {
+        "uriArticulo" : {
+          "type" : "uri",
+          "value" : "http://utpl.edu.ec/lod/publishingCOVID/ontology/BibliographicResource/Article-18"
+        },
+        "titulo" : {
+          "type" : "literal",
+          "value" : "An effective CTL peptide vaccine for Ebola Zaire Based on Survivors’ CD8+\ntargeting of a particular nucleocapsid protein epitope with potential\nimplications for COVID-19 vaccine design"
+        }
+      },
+      {
+        "uriArticulo" : {
+          "type" : "uri",
+          "value" : "http://utpl.edu.ec/lod/publishingCOVID/ontology/BibliographicResource/Article-17"
+        },
+        "titulo" : {
+          "type" : "literal",
+          "value" : "Analysis on herbal medicines utilized for treatment of COVID-19"
+        }
+      },
+      {
+        "uriArticulo" : {
+          "type" : "uri",
+          "value" : "http://utpl.edu.ec/lod/publishingCOVID/ontology/BibliographicResource/Article-19"
+        },
+        "titulo" : {
+          "type" : "literal",
+          "value" : "Anesthetic and surgical management of tracheostomy in a patient with COVID-19"
+        }
+      },
+      {
+        "uriArticulo" : {
+          "type" : "uri",
+          "value" : "http://utpl.edu.ec/lod/publishingCOVID/ontology/BibliographicResource/Article-22"
+        },
+        "titulo" : {
+          "type" : "literal",
+          "value" : "Annonce du diagnostic et accompagnement de fin de vie du COVID-19\nen p´eriode de confinement au sein d’une unit´e g´eriatrique aigu¨e"
+        }
+      },
+      {
+        "uriArticulo" : {
+          "type" : "uri",
+          "value" : "http://utpl.edu.ec/lod/publishingCOVID/ontology/BibliographicResource/Article-26"
+        },
+        "titulo" : {
+          "type" : "literal",
+          "value" : "Anti-HCV, nucleotide inhibitors, repurposing against COVID-19"
+        }
+      },
+      {
+        "uriArticulo" : {
+          "type" : "uri",
+          "value" : "http://utpl.edu.ec/lod/publishingCOVID/ontology/BibliographicResource/Article-25"
+        },
+        "titulo" : {
+          "type" : "literal",
+          "value" : "Anticipating and Mitigating theImpact of the COVID-19 Pandemicon Alzheimer’s Disease and Related Dementias"
+        }
+      },
+      {
+        "uriArticulo" : {
+          "type" : "uri",
+          "value" : "http://utpl.edu.ec/lod/publishingCOVID/ontology/BibliographicResource/Article-27"
+        },
+        "titulo" : {
+          "type" : "literal",
+          "value" : "Appreciating COVID-19 as a child and adolescent psychiatrist on the move"
+        }
+      },
+      {
+        "uriArticulo" : {
+          "type" : "uri",
+          "value" : "http://utpl.edu.ec/lod/publishingCOVID/ontology/BibliographicResource/Article-29"
+        },
+        "titulo" : {
+          "type" : "literal",
+          "value" : "Are Gastrointestinal Symptoms Specific for COVID-19 Infection? A Prospective Case-Control Study from the United States"
+        }
+      },
+      {
+        "uriArticulo" : {
+          "type" : "uri",
+          "value" : "http://utpl.edu.ec/lod/publishingCOVID/ontology/BibliographicResource/Article-28"
+        },
+        "titulo" : {
+          "type" : "literal",
+          "value" : "Are black and Hispanic persons disproportionately affected by COVID-19 because of higher obesity rates"
+        }
+      },
+      {
+        "uriArticulo" : {
+          "type" : "uri",
+          "value" : "http://utpl.edu.ec/lod/publishingCOVID/ontology/BibliographicResource/Article-35"
+        },
+        "titulo" : {
+          "type" : "literal",
+          "value" : "Aspectos y consideraciones generales en la enfermedad inflamatoria intestinal durante la pandemia por COVID-19"
+        }
+      },
+      {
+        "uriArticulo" : {
+          "type" : "uri",
+          "value" : "http://utpl.edu.ec/lod/publishingCOVID/ontology/BibliographicResource/Article-36"
+        },
+        "titulo" : {
+          "type" : "literal",
+          "value" : "Assessing air quality changes in large cities during COVID-19 lockdowns: The impacts of traffic-free urban conditions in Almaty, Kazakhstan"
+        }
+      },
+      {
+        "uriArticulo" : {
+          "type" : "uri",
+          "value" : "http://utpl.edu.ec/lod/publishingCOVID/ontology/BibliographicResource/Article-38"
+        },
+        "titulo" : {
+          "type" : "literal",
+          "value" : "Association of inflammatory markers with the severity of COVID-19: A meta-analysis"
+        }
+      },
+      {
+        "uriArticulo" : {
+          "type" : "uri",
+          "value" : "http://utpl.edu.ec/lod/publishingCOVID/ontology/BibliographicResource/Article-39"
+        },
+        "titulo" : {
+          "type" : "literal",
+          "value" : "Association of viral load with serum biomakers among COVID-19 cases"
+        }
+      },
+      {
+        "uriArticulo" : {
+          "type" : "uri",
+          "value" : "http://utpl.edu.ec/lod/publishingCOVID/ontology/BibliographicResource/Article-40"
+        },
+        "titulo" : {
+          "type" : "literal",
+          "value" : "Associations between Angiotensin Converting Enzyme Inhibitors and Angiotensin II Receptor Blocker Use, Gastrointestinal Symptoms, and Mortality among Patients with COVID-19"
+        }
+      },
+      {
+        "uriArticulo" : {
+          "type" : "uri",
+          "value" : "http://utpl.edu.ec/lod/publishingCOVID/ontology/BibliographicResource/Article-43"
+        },
+        "titulo" : {
+          "type" : "literal",
+          "value" : "Automated detection of COVID-19 cases using deep neural networks with\r\nX-ray images"
+        }
+      },
+      {
+        "uriArticulo" : {
+          "type" : "uri",
+          "value" : "http://utpl.edu.ec/lod/publishingCOVID/ontology/BibliographicResource/Article-44"
+        },
+        "titulo" : {
+          "type" : "literal",
+          "value" : "Baseline Disease Activity and Steroid Therapy Stratify Risk of COVID-19 in Patients with Inflammatory Bowel Disease"
+        }
+      },
+      {
+        "uriArticulo" : {
+          "type" : "uri",
+          "value" : "http://utpl.edu.ec/lod/publishingCOVID/ontology/BibliographicResource/Article-90"
+        },
+        "titulo" : {
+          "type" : "literal",
+          "value" : "COVID-19 Antibody Testing in Pregnancy"
+        }
+      },
+      {
+        "uriArticulo" : {
+          "type" : "uri",
+          "value" : "http://utpl.edu.ec/lod/publishingCOVID/ontology/BibliographicResource/Article-93"
+        },
+        "titulo" : {
+          "type" : "literal",
+          "value" : "COVID-19 Collaborative Model for an Academic Hospital and Long-Term Care Facilities"
+        }
+      },
+      {
+        "uriArticulo" : {
+          "type" : "uri",
+          "value" : "http://utpl.edu.ec/lod/publishingCOVID/ontology/BibliographicResource/Article-96"
+        },
+        "titulo" : {
+          "type" : "literal",
+          "value" : "COVID-19 Digestive System Involvement and Clinical Outcomes in a Large Academic Hospital in Milan, Italy"
+        }
+      },
+      {
+        "uriArticulo" : {
+          "type" : "uri",
+          "value" : "http://utpl.edu.ec/lod/publishingCOVID/ontology/BibliographicResource/Article-89"
+        },
+        "titulo" : {
+          "type" : "literal",
+          "value" : "COVID-19 and surface water quality: Improved lake water quality duringthe lockdown"
+        }
+      },
+      {
+        "uriArticulo" : {
+          "type" : "uri",
+          "value" : "http://utpl.edu.ec/lod/publishingCOVID/ontology/BibliographicResource/Article-95"
+        },
+        "titulo" : {
+          "type" : "literal",
+          "value" : "COVID-19 created chaos across the globe: Three novel quarantine epidemic models"
+        }
+      },
+      {
+        "uriArticulo" : {
+          "type" : "uri",
+          "value" : "http://utpl.edu.ec/lod/publishingCOVID/ontology/BibliographicResource/Article-98"
+        },
+        "titulo" : {
+          "type" : "literal",
+          "value" : "COVID-19 et chirurgie ORL"
+        }
+      },
+      {
+        "uriArticulo" : {
+          "type" : "uri",
+          "value" : "http://utpl.edu.ec/lod/publishingCOVID/ontology/BibliographicResource/Article-99"
+        },
+        "titulo" : {
+          "type" : "literal",
+          "value" : "COVID-19 from veterinary medicine and one health perspectives: What animal coronaviruses have taught us"
+        }
+      },
+      {
+        "uriArticulo" : {
+          "type" : "uri",
+          "value" : "http://utpl.edu.ec/lod/publishingCOVID/ontology/BibliographicResource/Article-94"
+        },
+        "titulo" : {
+          "type" : "literal",
+          "value" : "COVID-19: COMO TRANSFORMAR UN VENTILADOR DE NO\r\nINVASIVA EN UN VENTILADOR DE CRITICOS"
+        }
+      },
+      {
+        "uriArticulo" : {
+          "type" : "uri",
+          "value" : "http://utpl.edu.ec/lod/publishingCOVID/ontology/BibliographicResource/Article-92"
+        },
+        "titulo" : {
+          "type" : "literal",
+          "value" : "COVID-19: Clinical Challenges in Dutch Geriatric Psychiatry"
+        }
+      },
+      {
+        "uriArticulo" : {
+          "type" : "uri",
+          "value" : "http://utpl.edu.ec/lod/publishingCOVID/ontology/BibliographicResource/Article-97"
+        },
+        "titulo" : {
+          "type" : "literal",
+          "value" : "COVID-19: Disease, management, treatment, and social impact"
+        }
+      },
+      {
+        "uriArticulo" : {
+          "type" : "uri",
+          "value" : "http://utpl.edu.ec/lod/publishingCOVID/ontology/BibliographicResource/Article-46"
+        },
+        "titulo" : {
+          "type" : "literal",
+          "value" : "Can we predict the occurrence of COVID-19 cases? Considerations using a\nsimple model of growth"
+        }
+      },
+      {
+        "uriArticulo" : {
+          "type" : "uri",
+          "value" : "http://utpl.edu.ec/lod/publishingCOVID/ontology/BibliographicResource/Article-49"
+        },
+        "titulo" : {
+          "type" : "literal",
+          "value" : "Cardiac Valves: Another “Disaster-Hit Area” of COVID-19 Patients"
+        }
+      },
+      {
+        "uriArticulo" : {
+          "type" : "uri",
+          "value" : "http://utpl.edu.ec/lod/publishingCOVID/ontology/BibliographicResource/Article-47"
+        },
+        "titulo" : {
+          "type" : "literal",
+          "value" : "Cardiac injury is associated with mortality and critically ill pneumonia in COVID-19: A meta-analysis"
+        }
+      },
+      {
+        "uriArticulo" : {
+          "type" : "uri",
+          "value" : "http://utpl.edu.ec/lod/publishingCOVID/ontology/BibliographicResource/Article-48"
+        },
+        "titulo" : {
+          "type" : "literal",
+          "value" : "Cardiac involvement in recovered COVID-19 patients identified by magnetic resonance imaging"
+        }
+      },
+      {
+        "uriArticulo" : {
+          "type" : "uri",
+          "value" : "http://utpl.edu.ec/lod/publishingCOVID/ontology/BibliographicResource/Article-50"
+        },
+        "titulo" : {
+          "type" : "literal",
+          "value" : "Cardiovascular disease potentially contributes to the progression and poor prognosis of COVID-19"
+        }
+      },
+      {
+        "uriArticulo" : {
+          "type" : "uri",
+          "value" : "http://utpl.edu.ec/lod/publishingCOVID/ontology/BibliographicResource/Article-51"
+        },
+        "titulo" : {
+          "type" : "literal",
+          "value" : "Challenges in Preparing and managing the critical care services for a large urban area during COVID-19 outbreak: Perspective from Delhi"
+        }
+      },
+      {
+        "uriArticulo" : {
+          "type" : "uri",
+          "value" : "http://utpl.edu.ec/lod/publishingCOVID/ontology/BibliographicResource/Article-53"
+        },
+        "titulo" : {
+          "type" : "literal",
+          "value" : "Chloroquine and hydroxychloroquine in the management of COVID-19: Much kerfuffle but little evidence"
+        }
+      },
+      {
+        "uriArticulo" : {
+          "type" : "uri",
+          "value" : "http://utpl.edu.ec/lod/publishingCOVID/ontology/BibliographicResource/Article-54"
+        },
+        "titulo" : {
+          "type" : "literal",
+          "value" : "Chloroquine and hydroxychloroquine in the treatment of COVID-19 with or without diabetes: A systematic search and a narrative review with a special reference to India and other developing countries"
+        }
+      },
+      {
+        "uriArticulo" : {
+          "type" : "uri",
+          "value" : "http://utpl.edu.ec/lod/publishingCOVID/ontology/BibliographicResource/Article-58"
+        },
+        "titulo" : {
+          "type" : "literal",
+          "value" : "Clinical Characteristics and Outcomes of 421 Patients With COVID-19 Treated in a Mobile Cabin Hospital"
+        }
+      },
+      {
+        "uriArticulo" : {
+          "type" : "uri",
+          "value" : "http://utpl.edu.ec/lod/publishingCOVID/ontology/BibliographicResource/Article-59"
+        },
+        "titulo" : {
+          "type" : "literal",
+          "value" : "Clinical Characteristics and Outcomes of COVID-19 Among Patients with Pre-Existing Liver Disease in United States: A Multi-Center Research Network Study"
+        }
+      },
+      {
+        "uriArticulo" : {
+          "type" : "uri",
+          "value" : "http://utpl.edu.ec/lod/publishingCOVID/ontology/BibliographicResource/Article-60"
+        },
+        "titulo" : {
+          "type" : "literal",
+          "value" : "Clinical Characteristics, Associated Factors, and Predicting COVID-19 Mortality Risk: A Retrospective Study in Wuhan, China"
+        }
+      },
+      {
+        "uriArticulo" : {
+          "type" : "uri",
+          "value" : "http://utpl.edu.ec/lod/publishingCOVID/ontology/BibliographicResource/Article-65"
+        },
+        "titulo" : {
+          "type" : "literal",
+          "value" : "Clinical Features and Short-term Outcomes of Elderly Patients With COVID-19"
+        }
+      },
+      {
+        "uriArticulo" : {
+          "type" : "uri",
+          "value" : "http://utpl.edu.ec/lod/publishingCOVID/ontology/BibliographicResource/Article-56"
+        },
+        "titulo" : {
+          "type" : "literal",
+          "value" : "Clinical and virological data of the first cases of COVID-19 in Europe: a case series"
+        }
+      },
+      {
+        "uriArticulo" : {
+          "type" : "uri",
+          "value" : "http://utpl.edu.ec/lod/publishingCOVID/ontology/BibliographicResource/Article-57"
+        },
+        "titulo" : {
+          "type" : "literal",
+          "value" : "Clinical characteristics and intrauterine vertical transmission potential of COVID-19 infection in nine pregnant women: a retrospective review of medical records"
+        }
+      },
+      {
+        "uriArticulo" : {
+          "type" : "uri",
+          "value" : "http://utpl.edu.ec/lod/publishingCOVID/ontology/BibliographicResource/Article-62"
+        },
+        "titulo" : {
+          "type" : "literal",
+          "value" : "Clinical characteristics of coronavirus disease 2019 (COVID-19) in China: A systematic review and meta-analysis"
+        }
+      },
+      {
+        "uriArticulo" : {
+          "type" : "uri",
+          "value" : "http://utpl.edu.ec/lod/publishingCOVID/ontology/BibliographicResource/Article-64"
+        },
+        "titulo" : {
+          "type" : "literal",
+          "value" : "Clinical course of severe and critical COVID-19 in hospitalized pregnancies: a US\r\ncohort study"
+        }
+      },
+      {
+        "uriArticulo" : {
+          "type" : "uri",
+          "value" : "http://utpl.edu.ec/lod/publishingCOVID/ontology/BibliographicResource/Article-66"
+        },
+        "titulo" : {
+          "type" : "literal",
+          "value" : "Clinical impact of COVID-19 on patients with cancer (CCC19): a cohort study"
+        }
+      },
+      {
+        "uriArticulo" : {
+          "type" : "uri",
+          "value" : "http://utpl.edu.ec/lod/publishingCOVID/ontology/BibliographicResource/Article-68"
+        },
+        "titulo" : {
+          "type" : "literal",
+          "value" : "Colchicina: una herramienta terapéutica potencial frente a COVID-19. Experiencia en 5 pacientes"
+        }
+      },
+      {
+        "uriArticulo" : {
+          "type" : "uri",
+          "value" : "http://utpl.edu.ec/lod/publishingCOVID/ontology/BibliographicResource/Article-69"
+        },
+        "titulo" : {
+          "type" : "literal",
+          "value" : "Combating devastating COVID-19 by drug repurposing"
+        }
+      },
+      {
+        "uriArticulo" : {
+          "type" : "uri",
+          "value" : "http://utpl.edu.ec/lod/publishingCOVID/ontology/BibliographicResource/Article-70"
+        },
+        "titulo" : {
+          "type" : "literal",
+          "value" : "Combination of four clinical indicators predicts the severe/critical symptom of patients infected COVID-19"
+        }
+      },
+      {
+        "uriArticulo" : {
+          "type" : "uri",
+          "value" : "http://utpl.edu.ec/lod/publishingCOVID/ontology/BibliographicResource/Article-72"
+        },
+        "titulo" : {
+          "type" : "literal",
+          "value" : "Comorbidities in COVID-19: Outcomes in hypertensive cohort and controversies with renin angiotensin system blockers"
+        }
+      },
+      {
+        "uriArticulo" : {
+          "type" : "uri",
+          "value" : "http://utpl.edu.ec/lod/publishingCOVID/ontology/BibliographicResource/Article-74"
+        },
+        "titulo" : {
+          "type" : "literal",
+          "value" : "Comparative tropism, replication kinetics, and cell damage\r\nprofiling of SARS-CoV-2 and SARS-CoV with implications for\r\nclinical manifestations, transmissibility, and laboratory\r\nstudies of COVID-19: an observational study"
+        }
+      },
+      {
+        "uriArticulo" : {
+          "type" : "uri",
+          "value" : "http://utpl.edu.ec/lod/publishingCOVID/ontology/BibliographicResource/Article-75"
+        },
+        "titulo" : {
+          "type" : "literal",
+          "value" : "Competing during a pandemic? Retailers’ ups and downs during the COVID-19 outbreak"
+        }
+      },
+      {
+        "uriArticulo" : {
+          "type" : "uri",
+          "value" : "http://utpl.edu.ec/lod/publishingCOVID/ontology/BibliographicResource/Article-77"
+        },
+        "titulo" : {
+          "type" : "literal",
+          "value" : "Conseils de bonnes pratiques pour les praticiens spécialisés en laryngologie et en phoniatrie en contexte d’épidémie COVID-19"
+        }
+      },
+      {
+        "uriArticulo" : {
+          "type" : "uri",
+          "value" : "http://utpl.edu.ec/lod/publishingCOVID/ontology/BibliographicResource/Article-78"
+        },
+        "titulo" : {
+          "type" : "literal",
+          "value" : "Consensus franc¸ais sur la r´ealisation de trach´eotomies et les soins de\ntrach´eotomies pendant la pand´emie de COVID-19"
+        }
+      },
+      {
+        "uriArticulo" : {
+          "type" : "uri",
+          "value" : "http://utpl.edu.ec/lod/publishingCOVID/ontology/BibliographicResource/Article-79"
+        },
+        "titulo" : {
+          "type" : "literal",
+          "value" : "Contentious issues and evolving concepts in the clinical presentation and management of patients with COVID-19 infectionwith reference to use of therapeutic and other drugs used in Co-morbid diseases (Hypertension, diabetes etc)"
+        }
+      },
+      {
+        "uriArticulo" : {
+          "type" : "uri",
+          "value" : "http://utpl.edu.ec/lod/publishingCOVID/ontology/BibliographicResource/Article-81"
+        },
+        "titulo" : {
+          "type" : "literal",
+          "value" : "Coronavirus (COVID-19) outbreak: what the department of endoscopy should know"
+        }
+      },
+      {
+        "uriArticulo" : {
+          "type" : "uri",
+          "value" : "http://utpl.edu.ec/lod/publishingCOVID/ontology/BibliographicResource/Article-91"
+        },
+        "titulo" : {
+          "type" : "literal",
+          "value" : "Coronavirus 2019 (COVID-19)–Associated Encephalopathies and Cerebrovascular Disease: The New Orleans Experience"
+        }
+      },
+      {
+        "uriArticulo" : {
+          "type" : "uri",
+          "value" : "http://utpl.edu.ec/lod/publishingCOVID/ontology/BibliographicResource/Article-85"
+        },
+        "titulo" : {
+          "type" : "literal",
+          "value" : "Coronavirus Disease (COVID-19): A primer for emergency physicians"
+        }
+      },
+      {
+        "uriArticulo" : {
+          "type" : "uri",
+          "value" : "http://utpl.edu.ec/lod/publishingCOVID/ontology/BibliographicResource/Article-84"
+        },
+        "titulo" : {
+          "type" : "literal",
+          "value" : "Coronavirus disease (COVID-19) and fertility: viral host entry protein expression in\r\nmale and female reproductive tissues"
+        }
+      },
+      {
+        "uriArticulo" : {
+          "type" : "uri",
+          "value" : "http://utpl.edu.ec/lod/publishingCOVID/ontology/BibliographicResource/Article-82"
+        },
+        "titulo" : {
+          "type" : "literal",
+          "value" : "Coronavirus disease 2019 (COVID-19) in pregnant women: A report based on 116 cases"
+        }
+      },
+      {
+        "uriArticulo" : {
+          "type" : "uri",
+          "value" : "http://utpl.edu.ec/lod/publishingCOVID/ontology/BibliographicResource/Article-83"
+        },
+        "titulo" : {
+          "type" : "literal",
+          "value" : "Coronavirus disease 2019 (COVID-19) pandemic and pregnancy"
+        }
+      },
+      {
+        "uriArticulo" : {
+          "type" : "uri",
+          "value" : "http://utpl.edu.ec/lod/publishingCOVID/ontology/BibliographicResource/Article-87"
+        },
+        "titulo" : {
+          "type" : "literal",
+          "value" : "Corticosteroids, but not TNF Antagonists, are Associated with Adverse COVID-19 Outcomes in Patients With Inflammatory Bowel Diseases: Results from an International Registry"
+        }
+      },
+      {
+        "uriArticulo" : {
+          "type" : "uri",
+          "value" : "http://utpl.edu.ec/lod/publishingCOVID/ontology/BibliographicResource/Article-88"
+        },
+        "titulo" : {
+          "type" : "literal",
+          "value" : "Could fighting airborne transmission be the next line of defence against COVID-19 spread?"
+        }
+      },
+      {
+        "uriArticulo" : {
+          "type" : "uri",
+          "value" : "http://utpl.edu.ec/lod/publishingCOVID/ontology/BibliographicResource/Article-198"
+        },
+        "titulo" : {
+          "type" : "literal",
+          "value" : "Identification of potential binders of the main protease 3CLpro of the COVID-19 via structure-based ligand design and molecular modeling"
+        }
+      },
+      {
+        "uriArticulo" : {
+          "type" : "uri",
+          "value" : "http://utpl.edu.ec/lod/publishingCOVID/ontology/BibliographicResource/Article-199"
+        },
+        "titulo" : {
+          "type" : "literal",
+          "value" : "Identifying potential treatments of COVID-19 from Traditional Chinese Medicine (TCM) by using a data-driven approach"
+        }
+      },
+      {
+        "uriArticulo" : {
+          "type" : "uri",
+          "value" : "http://utpl.edu.ec/lod/publishingCOVID/ontology/BibliographicResource/Article-200"
+        },
+        "titulo" : {
+          "type" : "literal",
+          "value" : "Imaging in corona virus disease 2019 (COVID-19)—A Scoping review"
+        }
+      },
+      {
+        "uriArticulo" : {
+          "type" : "uri",
+          "value" : "http://utpl.edu.ec/lod/publishingCOVID/ontology/BibliographicResource/Article-202"
+        },
+        "titulo" : {
+          "type" : "literal",
+          "value" : "Impact of Anti-TNF and Thiopurines medications on the development of COVID-19 in patients with inflammatory bowel disease: A Nationwide VA cohort study"
+        }
+      },
+      {
+        "uriArticulo" : {
+          "type" : "uri",
+          "value" : "http://utpl.edu.ec/lod/publishingCOVID/ontology/BibliographicResource/Article-204"
+        },
+        "titulo" : {
+          "type" : "literal",
+          "value" : "Impact of COVID-19 outbreak measures of lockdown on the Italian Carbon Footprint"
+        }
+      },
+      {
+        "uriArticulo" : {
+          "type" : "uri",
+          "value" : "http://utpl.edu.ec/lod/publishingCOVID/ontology/BibliographicResource/Article-205"
+        },
+        "titulo" : {
+          "type" : "literal",
+          "value" : "Impact of COVID-19 outbreak on clinical practice and training of young gastroenterologists: A European survey"
+        }
+      },
+      {
+        "uriArticulo" : {
+          "type" : "uri",
+          "value" : "http://utpl.edu.ec/lod/publishingCOVID/ontology/BibliographicResource/Article-206"
+        },
+        "titulo" : {
+          "type" : "literal",
+          "value" : "Impact of low dose tocilizumab on mortality rate in patients with COVID-19 related pneumonia"
+        }
+      },
+      {
+        "uriArticulo" : {
+          "type" : "uri",
+          "value" : "http://utpl.edu.ec/lod/publishingCOVID/ontology/BibliographicResource/Article-207"
+        },
+        "titulo" : {
+          "type" : "literal",
+          "value" : "Impact of temperature on the dynamics of the COVID-19 outbreak in China"
+        }
+      },
+      {
+        "uriArticulo" : {
+          "type" : "uri",
+          "value" : "http://utpl.edu.ec/lod/publishingCOVID/ontology/BibliographicResource/Article-208"
+        },
+        "titulo" : {
+          "type" : "literal",
+          "value" : "Increased ozone levels during the COVID-19 lockdown: Analysis for the\ncity of Rio de Janeiro, Brazil"
+        }
+      },
+      {
+        "uriArticulo" : {
+          "type" : "uri",
+          "value" : "http://utpl.edu.ec/lod/publishingCOVID/ontology/BibliographicResource/Article-211"
+        },
+        "titulo" : {
+          "type" : "literal",
+          "value" : "Infection prevention and control compliance in Tanzanian outpatient facilities: a cross-sectional study with implications for the control of COVID-19"
+        }
+      },
+      {
+        "uriArticulo" : {
+          "type" : "uri",
+          "value" : "http://utpl.edu.ec/lod/publishingCOVID/ontology/BibliographicResource/Article-214"
+        },
+        "titulo" : {
+          "type" : "literal",
+          "value" : "Initial impacts of global risk mitigation measures taken during the combatting of the COVID-19 pandemic"
+        }
+      },
+      {
+        "uriArticulo" : {
+          "type" : "uri",
+          "value" : "http://utpl.edu.ec/lod/publishingCOVID/ontology/BibliographicResource/Article-216"
+        },
+        "titulo" : {
+          "type" : "literal",
+          "value" : "Is diabetes mellitus associated with mortality and severity of COVID-19? A meta-analysis"
+        }
+      },
+      {
+        "uriArticulo" : {
+          "type" : "uri",
+          "value" : "http://utpl.edu.ec/lod/publishingCOVID/ontology/BibliographicResource/Article-218"
+        },
+        "titulo" : {
+          "type" : "literal",
+          "value" : "La obesidad como factor de riesgo en personas con COVID-19: Posibles mecanismos e implicaciones"
+        }
+      },
+      {
+        "uriArticulo" : {
+          "type" : "uri",
+          "value" : "http://utpl.edu.ec/lod/publishingCOVID/ontology/BibliographicResource/Article-219"
+        },
+        "titulo" : {
+          "type" : "literal",
+          "value" : "La primera autopsia COVID-19 en España después del inicio de la pandemiaThe first COVID-19 autopsy in Spain performed during the early stages of the pandemic."
+        }
+      },
+      {
+        "uriArticulo" : {
+          "type" : "uri",
+          "value" : "http://utpl.edu.ec/lod/publishingCOVID/ontology/BibliographicResource/Article-217"
+        },
+        "titulo" : {
+          "type" : "literal",
+          "value" : "Lactate dehydrogenase levels predict coronavirus disease 2019 (COVID-19) severity and mortality: A pooled analysis"
+        }
+      },
+      {
+        "uriArticulo" : {
+          "type" : "uri",
+          "value" : "http://utpl.edu.ec/lod/publishingCOVID/ontology/BibliographicResource/Article-223"
+        },
+        "titulo" : {
+          "type" : "literal",
+          "value" : "Longitudinal hematologic and immunologic variations associated with the progression\nof COVID-19 patients in China"
+        }
+      },
+      {
+        "uriArticulo" : {
+          "type" : "uri",
+          "value" : "http://utpl.edu.ec/lod/publishingCOVID/ontology/BibliographicResource/Article-224"
+        },
+        "titulo" : {
+          "type" : "literal",
+          "value" : "Loop mediated isothermal amplification (LAMP) assays as a rapid diagnostic\nfor COVID-19"
+        }
+      },
+      {
+        "uriArticulo" : {
+          "type" : "uri",
+          "value" : "http://utpl.edu.ec/lod/publishingCOVID/ontology/BibliographicResource/Article-225"
+        },
+        "titulo" : {
+          "type" : "literal",
+          "value" : "Lymphopenia is associated with severe coronavirus disease 2019 (COVID-19) infections: A systemic review and meta-analysis"
+        }
+      },
+      {
+        "uriArticulo" : {
+          "type" : "uri",
+          "value" : "http://utpl.edu.ec/lod/publishingCOVID/ontology/BibliographicResource/Article-226"
+        },
+        "titulo" : {
+          "type" : "literal",
+          "value" : "Malnutrition Care during the COVID-19 Pandemic: Considerations for Registered Dietitian Nutritionists Evidence Analysis Center"
+        }
+      },
+      {
+        "uriArticulo" : {
+          "type" : "uri",
+          "value" : "http://utpl.edu.ec/lod/publishingCOVID/ontology/BibliographicResource/Article-227"
+        },
+        "titulo" : {
+          "type" : "literal",
+          "value" : "Managing Endovascular Workload during COVID-19 Outbreak—The Singapore Experience"
+        }
+      },
+      {
+        "uriArticulo" : {
+          "type" : "uri",
+          "value" : "http://utpl.edu.ec/lod/publishingCOVID/ontology/BibliographicResource/Article-228"
+        },
+        "titulo" : {
+          "type" : "literal",
+          "value" : "Managing patients with rheumatic diseases during the COVID-19 pandemic: The French Society of Rheumatology answers to most frequently asked questions up to May 2020"
+        }
+      },
+      {
+        "uriArticulo" : {
+          "type" : "uri",
+          "value" : "http://utpl.edu.ec/lod/publishingCOVID/ontology/BibliographicResource/Article-231"
+        },
+        "titulo" : {
+          "type" : "literal",
+          "value" : "Marked Up-Regulation of ACE2 in Hearts of Patients With Obstructive Hypertrophic Cardiomyopathy: Implications for SARS-CoV-2–Mediated COVID-19"
+        }
+      },
+      {
+        "uriArticulo" : {
+          "type" : "uri",
+          "value" : "http://utpl.edu.ec/lod/publishingCOVID/ontology/BibliographicResource/Article-232"
+        },
+        "titulo" : {
+          "type" : "literal",
+          "value" : "Maternal death due to COVID-19"
+        }
+      },
+      {
+        "uriArticulo" : {
+          "type" : "uri",
+          "value" : "http://utpl.edu.ec/lod/publishingCOVID/ontology/BibliographicResource/Article-233"
+        },
+        "titulo" : {
+          "type" : "literal",
+          "value" : "Mathematical modeling of COVID-19 transmission dynamics with a case study of Wuhan"
+        }
+      },
+      {
+        "uriArticulo" : {
+          "type" : "uri",
+          "value" : "http://utpl.edu.ec/lod/publishingCOVID/ontology/BibliographicResource/Article-234"
+        },
+        "titulo" : {
+          "type" : "literal",
+          "value" : "Modeling and prediction of COVID-19 in Mexico applying mathematical and computational models"
+        }
+      },
+      {
+        "uriArticulo" : {
+          "type" : "uri",
+          "value" : "http://utpl.edu.ec/lod/publishingCOVID/ontology/BibliographicResource/Article-236"
+        },
+        "titulo" : {
+          "type" : "literal",
+          "value" : "Navigating the challenges of the COVID-19 outbreak: Perspectives from the radiation oncology service in Singapore"
+        }
+      },
+      {
+        "uriArticulo" : {
+          "type" : "uri",
+          "value" : "http://utpl.edu.ec/lod/publishingCOVID/ontology/BibliographicResource/Article-238"
+        },
+        "titulo" : {
+          "type" : "literal",
+          "value" : "Neurosurgery Services in Dr. Sardjito General Hospital, Yogyakarta, Indonesia, During the COVID-19 Pandemic: Experience from a Developing Country"
+        }
+      },
+      {
+        "uriArticulo" : {
+          "type" : "uri",
+          "value" : "http://utpl.edu.ec/lod/publishingCOVID/ontology/BibliographicResource/Article-243"
+        },
+        "titulo" : {
+          "type" : "literal",
+          "value" : "Novel Percutaneous Tracheostomy for Critically Ill Patients with COVID-19"
+        }
+      },
+      {
+        "uriArticulo" : {
+          "type" : "uri",
+          "value" : "http://utpl.edu.ec/lod/publishingCOVID/ontology/BibliographicResource/Article-242"
+        },
+        "titulo" : {
+          "type" : "literal",
+          "value" : "Novel corona virus disease (COVID-19) awareness among the dental interns, dental auxiliaries and dental specialists in Saudi Arabia: A nationwide study"
+        }
+      },
+      {
+        "uriArticulo" : {
+          "type" : "uri",
+          "value" : "http://utpl.edu.ec/lod/publishingCOVID/ontology/BibliographicResource/Article-244"
+        },
+        "titulo" : {
+          "type" : "literal",
+          "value" : "Obesity as a predictor for a poor prognosis of COVID-19: A systematic review"
+        }
+      },
+      {
+        "uriArticulo" : {
+          "type" : "uri",
+          "value" : "http://utpl.edu.ec/lod/publishingCOVID/ontology/BibliographicResource/Article-3"
+        },
+        "titulo" : {
+          "type" : "literal",
+          "value" : "Oligosymptomatic Kidney Transplant Patients With COVID-19: Do They Pose a Risk to Other Recipients"
+        }
+      },
+      {
+        "uriArticulo" : {
+          "type" : "uri",
+          "value" : "http://utpl.edu.ec/lod/publishingCOVID/ontology/BibliographicResource/Article-246"
+        },
+        "titulo" : {
+          "type" : "literal",
+          "value" : "Opciones terapéuticas en el manejo de la COVID-19 grave: una perspectiva de Reumatología"
+        }
+      },
+      {
+        "uriArticulo" : {
+          "type" : "uri",
+          "value" : "http://utpl.edu.ec/lod/publishingCOVID/ontology/BibliographicResource/Article-247"
+        },
+        "titulo" : {
+          "type" : "literal",
+          "value" : "Optimal temperature zone for the dispersal of COVID-19"
+        }
+      },
+      {
+        "uriArticulo" : {
+          "type" : "uri",
+          "value" : "http://utpl.edu.ec/lod/publishingCOVID/ontology/BibliographicResource/Article-248"
+        },
+        "titulo" : {
+          "type" : "literal",
+          "value" : "Out-of-hospital cardiac arrest during the COVID-19 pandemic in Paris, France: a population-based, observational study"
+        }
+      },
+      {
+        "uriArticulo" : {
+          "type" : "uri",
+          "value" : "http://utpl.edu.ec/lod/publishingCOVID/ontology/BibliographicResource/Article-250"
+        },
+        "titulo" : {
+          "type" : "literal",
+          "value" : "Pandemic preparedness of community pharmacies for COVID-19"
+        }
+      },
+      {
+        "uriArticulo" : {
+          "type" : "uri",
+          "value" : "http://utpl.edu.ec/lod/publishingCOVID/ontology/BibliographicResource/Article-252"
+        },
+        "titulo" : {
+          "type" : "literal",
+          "value" : "Pediatric laryngoscopy and bronchoscopy during the COVID-19 pandemic: A four-center collaborative protocol to improve safety with perioperative management strategies and creation of a surgical tent with disposable drapes"
+        }
+      },
+      {
+        "uriArticulo" : {
+          "type" : "uri",
+          "value" : "http://utpl.edu.ec/lod/publishingCOVID/ontology/BibliographicResource/Article-253"
+        },
+        "titulo" : {
+          "type" : "literal",
+          "value" : "Perinatal depressive and anxiety symptoms of pregnant women along with COVID-19 outbreak in China"
+        }
+      },
+      {
+        "uriArticulo" : {
+          "type" : "uri",
+          "value" : "http://utpl.edu.ec/lod/publishingCOVID/ontology/BibliographicResource/Article-254"
+        },
+        "titulo" : {
+          "type" : "literal",
+          "value" : "Pernio-like skin lesions associated with COVID-19: a case series of 318 patients from 8 countries"
+        }
+      },
+      {
+        "uriArticulo" : {
+          "type" : "uri",
+          "value" : "http://utpl.edu.ec/lod/publishingCOVID/ontology/BibliographicResource/Article-257"
+        },
+        "titulo" : {
+          "type" : "literal",
+          "value" : "Pharmacological perspective: glycyrrhizin may be an efficacious therapeutic agent for COVID-19"
+        }
+      },
+      {
+        "uriArticulo" : {
+          "type" : "uri",
+          "value" : "http://utpl.edu.ec/lod/publishingCOVID/ontology/BibliographicResource/Article-258"
+        },
+        "titulo" : {
+          "type" : "literal",
+          "value" : "Pharmacy administration and pharmaceutical care practice in a module hospital during the COVID-19 epidemic"
+        }
+      },
+      {
+        "uriArticulo" : {
+          "type" : "uri",
+          "value" : "http://utpl.edu.ec/lod/publishingCOVID/ontology/BibliographicResource/Article-259"
+        },
+        "titulo" : {
+          "type" : "literal",
+          "value" : "Plans to Reactivate Gastroenterology Practices Following the COVID-19 Pandemic: A Survey of North American Centers"
+        }
+      },
+      {
+        "uriArticulo" : {
+          "type" : "uri",
+          "value" : "http://utpl.edu.ec/lod/publishingCOVID/ontology/BibliographicResource/Article-260"
+        },
+        "titulo" : {
+          "type" : "literal",
+          "value" : "Plasma IP-10 and MCP-3 levels are highly associated with disease severity and predict the progression of COVID-19"
+        }
+      },
+      {
+        "uriArticulo" : {
+          "type" : "uri",
+          "value" : "http://utpl.edu.ec/lod/publishingCOVID/ontology/BibliographicResource/Article-261"
+        },
+        "titulo" : {
+          "type" : "literal",
+          "value" : "Potential therapeutic effects of dipyridamole in the severely ill patients with COVID-19"
+        }
+      },
+      {
+        "uriArticulo" : {
+          "type" : "uri",
+          "value" : "http://utpl.edu.ec/lod/publishingCOVID/ontology/BibliographicResource/Article-264"
+        },
+        "titulo" : {
+          "type" : "literal",
+          "value" : "Precautions and recommendations for orthodontic settings during the COVID-19 outbreak: A review"
+        }
+      },
+      {
+        "uriArticulo" : {
+          "type" : "uri",
+          "value" : "http://utpl.edu.ec/lod/publishingCOVID/ontology/BibliographicResource/Article-265"
+        },
+        "titulo" : {
+          "type" : "literal",
+          "value" : "Predicting the growth and trend of COVID-19 pandemic using machine learning and cloud computing"
+        }
+      },
+      {
+        "uriArticulo" : {
+          "type" : "uri",
+          "value" : "http://utpl.edu.ec/lod/publishingCOVID/ontology/BibliographicResource/Article-266"
+        },
+        "titulo" : {
+          "type" : "literal",
+          "value" : "Prediction for the spread of COVID-19 in India and effectiveness of preventive measures"
+        }
+      },
+      {
+        "uriArticulo" : {
+          "type" : "uri",
+          "value" : "http://utpl.edu.ec/lod/publishingCOVID/ontology/BibliographicResource/Article-270"
+        },
+        "titulo" : {
+          "type" : "literal",
+          "value" : "Prevalence of COVID-19 among patients with chronic inflammatory rheumatic diseases treated with biologic agents or small molecules: a population-based study in the first two months of COVID-19 outbreak in Italy"
+        }
+      },
+      {
+        "uriArticulo" : {
+          "type" : "uri",
+          "value" : "http://utpl.edu.ec/lod/publishingCOVID/ontology/BibliographicResource/Article-272"
+        },
+        "titulo" : {
+          "type" : "literal",
+          "value" : "Prioritisation of ICU treatments for critically ill patients in a COVID-19 pandemic with scarce resources"
+        }
+      },
+      {
+        "uriArticulo" : {
+          "type" : "uri",
+          "value" : "http://utpl.edu.ec/lod/publishingCOVID/ontology/BibliographicResource/Article-274"
+        },
+        "titulo" : {
+          "type" : "literal",
+          "value" : "Proposal for the return to routine endoscopy during the COVID-19 pandemic"
+        }
+      },
+      {
+        "uriArticulo" : {
+          "type" : "uri",
+          "value" : "http://utpl.edu.ec/lod/publishingCOVID/ontology/BibliographicResource/Article-275"
+        },
+        "titulo" : {
+          "type" : "literal",
+          "value" : "Proteomic and Metabolomic Characterization of COVID-19 Patient Sera"
+        }
+      },
+      {
+        "uriArticulo" : {
+          "type" : "uri",
+          "value" : "http://utpl.edu.ec/lod/publishingCOVID/ontology/BibliographicResource/Article-276"
+        },
+        "titulo" : {
+          "type" : "literal",
+          "value" : "Psychiatric and neuropsychiatric presentations associated with severe coronavirus infections: a systematic review and meta-analysis with comparison to the COVID-19 pandemic"
+        }
+      },
+      {
+        "uriArticulo" : {
+          "type" : "uri",
+          "value" : "http://utpl.edu.ec/lod/publishingCOVID/ontology/BibliographicResource/Article-277"
+        },
+        "titulo" : {
+          "type" : "literal",
+          "value" : "Psychiatry in the aftermath of COVID-19"
+        }
+      },
+      {
+        "uriArticulo" : {
+          "type" : "uri",
+          "value" : "http://utpl.edu.ec/lod/publishingCOVID/ontology/BibliographicResource/Article-278"
+        },
+        "titulo" : {
+          "type" : "literal",
+          "value" : "Psychological impact of healthcare workers in China during COVID-19 pneumonia epidemic: A multi-center cross-sectional survey investigation"
+        }
+      },
+      {
+        "uriArticulo" : {
+          "type" : "uri",
+          "value" : "http://utpl.edu.ec/lod/publishingCOVID/ontology/BibliographicResource/Article-279"
+        },
+        "titulo" : {
+          "type" : "literal",
+          "value" : "Quantitative computed tomography of the coronavirus disease 2019 (COVID-19) pneumonia"
+        }
+      },
+      {
+        "uriArticulo" : {
+          "type" : "uri",
+          "value" : "http://utpl.edu.ec/lod/publishingCOVID/ontology/BibliographicResource/Article-280"
+        },
+        "titulo" : {
+          "type" : "literal",
+          "value" : "Ramipril in High Risk Patients with COVID-19"
+        }
+      },
+      {
+        "uriArticulo" : {
+          "type" : "uri",
+          "value" : "http://utpl.edu.ec/lod/publishingCOVID/ontology/BibliographicResource/Article-282"
+        },
+        "titulo" : {
+          "type" : "literal",
+          "value" : "Readability of online patient education material for the novel coronavirus disease (COVID-19): a cross-sectional health literacy study"
+        }
+      },
+      {
+        "uriArticulo" : {
+          "type" : "uri",
+          "value" : "http://utpl.edu.ec/lod/publishingCOVID/ontology/BibliographicResource/Article-283"
+        },
+        "titulo" : {
+          "type" : "literal",
+          "value" : "Real-world Scenario of Patients with Lung Cancer Amid the COVID-19 Pandemic in China"
+        }
+      },
+      {
+        "uriArticulo" : {
+          "type" : "uri",
+          "value" : "http://utpl.edu.ec/lod/publishingCOVID/ontology/BibliographicResource/Article-284"
+        },
+        "titulo" : {
+          "type" : "literal",
+          "value" : "Recognizing COVID-19-related myocarditis: the possible pathophysiology and\nproposed guideline for diagnosis and management"
+        }
+      },
+      {
+        "uriArticulo" : {
+          "type" : "uri",
+          "value" : "http://utpl.edu.ec/lod/publishingCOVID/ontology/BibliographicResource/Article-285"
+        },
+        "titulo" : {
+          "type" : "literal",
+          "value" : "Recomendaciones de consenso SEDAR-SEMICYUC sobre el manejo de las alteraciones de la hemostasia en los pacientes graves con infección por COVID-19"
+        }
+      },
+      {
+        "uriArticulo" : {
+          "type" : "uri",
+          "value" : "http://utpl.edu.ec/lod/publishingCOVID/ontology/BibliographicResource/Article-201"
+        },
+        "titulo" : {
+          "type" : "literal",
+          "value" : "mpacto de la pandemia COVID-19 en la atención al paciente con cefalea en España: análisis de situación con una mirada al futuro"
+        }
+      }
+    ]
+  }
+}
